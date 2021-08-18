@@ -19,4 +19,4 @@ class ApiDbd {
     }
 }
 
-export default ApiDbd()
+export default new ApiDbd()
