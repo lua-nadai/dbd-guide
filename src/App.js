@@ -4,6 +4,7 @@ import './App.css';
 
 import ApiDbd from './api/api.js';
 import Navbar from './components/Navbar.js';
+import Footer from './components/Footer.js';
 
 
 class App extends Component {
@@ -37,6 +38,7 @@ class App extends Component {
     return (
       <>
         <Navbar/>
+        <Footer/>
       </>
     );
   };
