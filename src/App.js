@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
-import CharacterCard from './components/CharacterCard.js'
-import ApiDbd from './api/api.js'
 
 import './App.css';
+
+import ApiDbd from './api/api.js';
+import Navbar from './components/Navbar.js';
 
 
 class App extends Component {
@@ -35,9 +36,7 @@ class App extends Component {
   render() {
     return (
       <>
-        <div className="App">
-          <h1>Oi</h1>
-        </div>
+        <Navbar/>
       </>
     );
   };

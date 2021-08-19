@@ -1,29 +1,18 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 .character-card {
   border: 1px solid black;
   width: 10vw;
   margin: 10px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  background-color: black;
+  padding: 2vh 80vw 2vh 0px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
 }
