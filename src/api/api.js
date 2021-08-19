@@ -3,19 +3,19 @@ import axios from 'axios'
 class ApiDbd {
 
     API = axios.create({
-        baseURL: 'https://dbd-api.herokuapp.com'
+        baseURL: 'https://ironrest.herokuapp.com/'
     })
 
     survival() {
-        return this.API.get('/survivors')
+        return this.API.get('/dbdsurvival')
     }
 
     killer() {
-        return this.API.get('/killers')
+        return this.API.get('/dbdkiller')
     }
 
     perks() {
-        return this.API.get('/perks')
+        return this.API.get('/dbdperk')
     }
 }
 
