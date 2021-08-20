@@ -14,13 +14,14 @@ class App extends Component {
   state = {
     survivalList: [],
     killerList: [],
-    perkList: []
+    perkList: [],
   }
 
   componentDidMount() {
     ApiDbd.survival().then((result) => {
       this.setState({
-        survivalList: result.data
+        survivalList: result.data,
+        filteredSurvival: result.data
       })
     });
     
@@ -44,11 +45,11 @@ class App extends Component {
         <Switch>
           <Route 
             path = '/survivors'
-            render={(props) => <CharacterList {...props} characters={this.state.survivalList} characterType = {'/survivors'} />}
+            render={(props) => <CharacterList {...props} characters={this.state.survivalList} characterType={'/survivors'} characterName={'Survivors'} survivalFilter={this.survivalFilter}/>}
           />
           <Route
             path='/killers'
-            render={(props) => <CharacterList {...props} characters={this.state.killerList} characterType = {'/killers'} />}
+            render={(props) => <CharacterList {...props} characters={this.state.killerList} characterType={'/killers'} characterName={'Killers'}/>}
           />
         </Switch>
         <Footer/>
