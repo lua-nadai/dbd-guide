@@ -5,8 +5,8 @@ class Search extends Component {
         input: ''
     }
 
-    handleSearch = (event) => {
-        this.setState({
+    handleSearch = async (event) => {       
+        await this.setState({
             input: event.target.value
         })
         this.props.characterFilter(this.state.input)
