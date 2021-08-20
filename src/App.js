@@ -14,28 +14,56 @@ class App extends Component {
   state = {
     survivalList: [],
     killerList: [],
-    perkList: []
+    perkList: [],
+
+    filteredSurvival: [],
+    filteredKiller: [],
+    filteredPerk: []
   }
 
   componentDidMount() {
     ApiDbd.survival().then((result) => {
       this.setState({
-        survivalList: result.data
+        survivalList: result.data,
+        filteredSurvival: result.data
       })
     });
     
     ApiDbd.killer().then((result) => {
       this.setState({
-        killerList: result.data
+        killerList: result.data,
+        filteredKiller: result.data
       })
     });
 
     ApiDbd.perks().then((result) => {
       this.setState({
-        perkList: result.data
+        perkList: result.data,
+        filteredPerk: result.data
       })
     });
   }
+
+  survivalFilter = (inputSearch) => {
+    const filtered = this.state.survivalList.filter((character) => {
+      return character.name.toLowerCase().includes(inputSearch.toLowerCase())
+    })
+
+    this.setState({
+      filteredSurvival: filtered
+    })
+  }
+
+  killerFilter = (inputSearch) => {
+    const filtered = this.state.killerList.filter((character) => {
+      return character.name.toLowerCase().includes(inputSearch.toLowerCase())
+    })
+
+    this.setState({
+      filteredKiller: filtered
+    })
+  }
+
   
   render() {
     return (
@@ -44,11 +72,25 @@ class App extends Component {
         <Switch>
           <Route 
             path = '/survivors'
-            render={(props) => <CharacterList {...props} characters={this.state.survivalList} characterType = {'/survivors'} />}
+            render={(props) => 
+              <CharacterList {...props} 
+                characters={this.state.filteredSurvival}
+                characterType={'/survivors'} 
+                characterName={'Survivors'} 
+                characterFilter={this.survivalFilter}
+              />
+            }
           />
           <Route
             path='/killers'
-            render={(props) => <CharacterList {...props} characters={this.state.killerList} characterType = {'/killers'} />}
+            render={(props) => 
+              <CharacterList {...props} 
+                characters={this.state.filteredKiller}
+                characterType={'/killers'} 
+                characterName={'Killers'}
+                characterFilter={this.killerFilter}
+              />
+            }
           />
         </Switch>
         <Footer/>
