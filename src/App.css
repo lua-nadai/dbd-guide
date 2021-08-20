@@ -2,7 +2,8 @@
 
 .character-card {
   border: 1px solid black;
-  width: 10vw;
+  width: 20vw;
+  height: 28vh;
   margin: 10px;
 }
 
