@@ -7,6 +7,7 @@ import ApiDbd from './api/api.js';
 import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
+import PerkCard from './components/PerkCard.js';
 
 
 
@@ -91,6 +92,9 @@ class App extends Component {
                 characterFilter={this.killerFilter}
               />
             }
+          />
+          <Route
+            path='/perks'
           />
         </Switch>
         <Footer/>
