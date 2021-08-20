@@ -1,10 +1,13 @@
 import React, {Component} from 'react';
+import { Switch, Route } from 'react-router-dom';
 
 import './App.css';
 
 import ApiDbd from './api/api.js';
 import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
+import CharacterList from './components/CharacterList.js';
+
 
 
 class App extends Component {
@@ -38,6 +41,16 @@ class App extends Component {
     return (
       <>
         <Navbar/>
+        <Switch>
+          <Route 
+            path = '/survivors'
+            render={(props) => <CharacterList {...props} characters={this.state.survivalList} characterType = {'/survivors'} />}
+          />
+          <Route
+            path='/killers'
+            render={(props) => <CharacterList {...props} characters={this.state.killerList} characterType = {'/killers'} />}
+          />
+        </Switch>
         <Footer/>
       </>
     );

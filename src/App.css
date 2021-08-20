@@ -2,8 +2,13 @@
 
 .character-card {
   border: 1px solid black;
-  width: 10vw;
+  width: 20vw;
+  height: 28vh;
   margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .navbar{
@@ -17,4 +22,10 @@
 .navbar a {
   text-decoration: none;
   color: white;
+}
+
+.character-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
