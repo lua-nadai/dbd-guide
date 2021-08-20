@@ -7,7 +7,7 @@ class CharacterList extends Component {
 
     render () {
         return (
-            <div>
+            <div className='character-list'>
                 {this.props.characters.map(character => <Link to={`${this.props.characterType}/${character._id}`} key = {character._id} > <CharacterCard {...character} /> </Link> )}
             </div>
         )
