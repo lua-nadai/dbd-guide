@@ -8,8 +8,10 @@ class PerkList extends Component {
     render() {
         return(
             <>
-                <h1>Perks</h1>
-                <Search characterFilter={this.props.characterFilter}/>
+                <div className='header-router'>
+                    <h1>Perks</h1>
+                    <Search characterFilter={this.props.characterFilter}/>
+                </div>
                 <div className='character-list'>
                     {this.props.perks.map( perk => 
                         <Link to={`/perks/${perk._id}`}> 

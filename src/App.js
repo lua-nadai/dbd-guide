@@ -66,7 +66,7 @@ class App extends Component {
 
   perkFilter = (inputSearch) => {
     const filtered = this.state.perkList.filter((character) => {
-      return character.name.toLowerCase().includes(inputSearch.toLowerCase())
+      return character.perk_name.toLowerCase().includes(inputSearch.toLowerCase())
     })
 
     this.setState({
