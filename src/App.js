@@ -7,8 +7,7 @@ import ApiDbd from './api/api.js';
 import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
-import PerkCard from './components/PerkCard.js';
-
+import PerkList from './components/PerkList';
 
 
 class App extends Component {
@@ -65,6 +64,16 @@ class App extends Component {
     })
   }
 
+  perkFilter = (inputSearch) => {
+    const filtered = this.state.perkList.filter((character) => {
+      return character.name.toLowerCase().includes(inputSearch.toLowerCase())
+    })
+
+    this.setState({
+      filteredPerk: filtered
+    })
+  }
+
   
   render() {
     return (
@@ -95,6 +104,12 @@ class App extends Component {
           />
           <Route
             path='/perks'
+            render={(props) => 
+              <PerkList {...props}
+                perks={this.state.filteredPerk}
+                characterFilter={this.perkFilter}
+              />
+            }
           />
         </Switch>
         <Footer/>
