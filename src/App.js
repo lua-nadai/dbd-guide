@@ -8,6 +8,7 @@ import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
 import PerkList from './components/PerkList';
+import CharacterInfo from './components/CharacterInfo.js';
 
 
 class App extends Component {
@@ -80,6 +81,9 @@ class App extends Component {
       <>
         <Navbar/>
         <Switch>
+          <Route
+            path exact='/'
+          />
           <Route 
             path = '/survivors'
             render={(props) => 
@@ -109,6 +113,13 @@ class App extends Component {
                 perks={this.state.filteredPerk}
                 characterFilter={this.perkFilter}
               />
+            }
+          />
+          <Route
+            path ='/survivors/:_id'
+            render={(props) => 
+              <CharacterInfo {...props}
+              characters={this.state.survivalList}/>
             }
           />
         </Switch>
