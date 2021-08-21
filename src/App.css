@@ -37,3 +37,29 @@
   align-items: center;
   margin: 20px;
 }
+
+.character-box {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 8vw;
+}
+
+.character-right{
+
+}
+
+.character-story{
+  border: 1px solid black;
+  margin: 20px;
+  width: 90vw;
+  padding: 20px;
+}
+
+.character-perk {
+  width: 90vw;
+  display: flex;
+  justify-content: space-around;
+  align-content: center; 
+}
