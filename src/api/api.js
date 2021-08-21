@@ -17,6 +17,10 @@ class ApiDbd {
     perks() {
         return this.API.get('/dbdperk')
     }
+
+    oneSurvival(_id){
+        return this.API.get(`/dbdsurvival/${_id}`)
+    }
 }
 
 export default new ApiDbd()
