@@ -8,7 +8,8 @@ import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
 import PerkList from './components/PerkList';
-import CharacterInfo from './components/CharacterInfo.js';
+import SurvivalInfo from './components/SurvivalInfo.js';
+import KillerInfo from './components/KillerInfo';
 import HomeInfo from './components/HomeInfo.js'
 
 
@@ -119,9 +120,16 @@ class App extends Component {
           <Route
             path='/survivors/:_id'
             render={(props) =>
-              <CharacterInfo {...props} />
+              <SurvivalInfo {...props} />
             }
           />
+          <Route
+            path='/killers/:_id'
+            render={(props)=> 
+            <KillerInfo {...props} />
+            }
+          />
+
         </Switch>
         <Footer />
       </>

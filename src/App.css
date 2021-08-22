@@ -63,3 +63,7 @@
   justify-content: space-around;
   align-content: center; 
 }
+
+.header-character{
+  display: flex;
+}
