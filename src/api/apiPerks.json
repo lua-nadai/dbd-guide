@@ -1,6 +1,5 @@
 [
     {
-        "_id": "5f46d9afa3777022ec626077",
         "role": "Survivor",
         "name": "Meg Thomas",
         "name_tag": "MT",
@@ -13,7 +12,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/QuickQuiet.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626078",
         "role": "Survivor",
         "name": "Meg Thomas",
         "name_tag": "MT",
@@ -26,7 +24,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SprintBurst.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626079",
         "role": "Survivor",
         "name": "Meg Thomas",
         "name_tag": "MT",
@@ -39,7 +36,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Adrenaline.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62607a",
         "role": "Survivor",
         "name": "Dwight Fairfield",
         "name_tag": "DF",
@@ -52,7 +48,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Bond.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62607b",
         "role": "Survivor",
         "name": "Dwight Fairfield",
         "name_tag": "DF",
@@ -65,7 +60,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ProveThyself.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62607c",
         "role": "Survivor",
         "name": "Dwight Fairfield",
         "name_tag": "DF",
@@ -78,7 +72,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Leader.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62607d",
         "role": "Survivor",
         "name": "Claudette Morel",
         "name_tag": "CM",
@@ -90,8 +83,7 @@
         "lang": "en",
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Empathy.png"
     },
-    {
-        "_id": "5f46d9afa3777022ec62607e",
+    {    
         "role": "Survivor",
         "name": "Claudette Morel",
         "name_tag": "CM",
@@ -104,7 +96,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BotanyKnowledge.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62607f",
         "role": "Survivor",
         "name": "Claudette Morel",
         "name_tag": "CM",
@@ -117,7 +108,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SelfCare.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626080",
         "role": "Survivor",
         "name": "Jake Park",
         "name_tag": "JP",
@@ -130,7 +120,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/IronWill.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626081",
         "role": "Survivor",
         "name": "Jake Park",
         "name_tag": "JP",
@@ -143,7 +132,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CalmSpirit.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626082",
         "role": "Survivor",
         "name": "Jake Park",
         "name_tag": "JP",
@@ -156,7 +144,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Saboteur.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626083",
         "role": "Survivor",
         "name": "Nea Karlsson",
         "name_tag": "NK",
@@ -168,8 +155,7 @@
         "lang": "en",
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BalancedLanding.png"
     },
-    {
-        "_id": "5f46d9afa3777022ec626084",
+    {     
         "role": "Survivor",
         "name": "Nea Karlsson",
         "name_tag": "NK",
@@ -181,8 +167,7 @@
         "lang": "en",
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/UrbanEvasion.png"
     },
-    {
-        "_id": "5f46d9afa3777022ec626085",
+    {  
         "role": "Survivor",
         "name": "Nea Karlsson",
         "name_tag": "NK",
@@ -195,7 +180,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Streetwise.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626086",
         "role": "Survivor",
         "name": "Laurie Strode",
         "name_tag": "LS",
@@ -208,7 +192,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SoleSurvivor.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626087",
         "role": "Survivor",
         "name": "Laurie Strode",
         "name_tag": "LS",
@@ -220,8 +203,7 @@
         "lang": "en",
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ObjectofObsession.png"
     },
-    {
-        "_id": "5f46d9afa3777022ec626088",
+    { 
         "role": "Survivor",
         "name": "Laurie Strode",
         "name_tag": "LS",
@@ -234,7 +216,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DecisiveStrike.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626089",
         "role": "Survivor",
         "name": "Ace Visconti",
         "name_tag": "AV",
@@ -247,7 +228,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/OpenHanded.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62608a",
         "role": "Survivor",
         "name": "Ace Visconti",
         "name_tag": "AV",
@@ -260,7 +240,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/UptheAnte.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62608b",
         "role": "Survivor",
         "name": "Ace Visconti",
         "name_tag": "AV",
@@ -273,7 +252,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/AceintheHole.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62608c",
         "role": "Survivor",
         "name": "W. Bill Overbeck",
         "name_tag": "BO",
@@ -286,7 +264,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/LeftBehind.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62608d",
         "role": "Survivor",
         "name": "W. Bill Overbeck",
         "name_tag": "BO",
@@ -299,7 +276,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BorrowedTime.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62608e",
         "role": "Survivor",
         "name": "W. Bill Overbeck",
         "name_tag": "BO",
@@ -312,7 +288,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Unbreakable.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62608f",
         "role": "Survivor",
         "name": "Feng Min",
         "name_tag": "FM",
@@ -325,7 +300,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Technician.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626090",
         "role": "Survivor",
         "name": "Feng Min",
         "name_tag": "FM",
@@ -338,7 +312,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Lithe.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626091",
         "role": "Survivor",
         "name": "Feng Min",
         "name_tag": "FM",
@@ -351,7 +324,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Alert.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626092",
         "role": "Survivor",
         "name": "David King",
         "name_tag": "DK",
@@ -364,7 +336,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WereGonnaLiveForever.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626093",
         "role": "Survivor",
         "name": "David King",
         "name_tag": "DK",
@@ -377,7 +348,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DeadHard.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626094",
         "role": "Survivor",
         "name": "David King",
         "name_tag": "DK",
@@ -390,7 +360,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/NoMither.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626095",
         "role": "Survivor",
         "name": "Quentin Smith",
         "name_tag": "ES",
@@ -403,7 +372,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WakeUp.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626096",
         "role": "Survivor",
         "name": "Quentin Smith",
         "name_tag": "ES",
@@ -416,7 +384,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Pharmacy.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626097",
         "role": "Survivor",
         "name": "Quentin Smith",
         "name_tag": "ES",
@@ -429,7 +396,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Vigil.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626098",
         "role": "Survivor",
         "name": "David Tapp",
         "name_tag": "FS",
@@ -442,7 +408,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Tenacity.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626099",
         "role": "Survivor",
         "name": "David Tapp",
         "name_tag": "FS",
@@ -455,7 +420,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DetectivesHunch.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62609a",
         "role": "Survivor",
         "name": "David Tapp",
         "name_tag": "FS",
@@ -468,7 +432,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/StakeOut.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62609b",
         "role": "Survivor",
         "name": "Kate Denson",
         "name_tag": "GS",
@@ -481,7 +444,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DanceWithMe.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62609c",
         "role": "Survivor",
         "name": "Kate Denson",
         "name_tag": "GS",
@@ -494,7 +456,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WindowsofOpportunity.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62609d",
         "role": "Survivor",
         "name": "Kate Denson",
         "name_tag": "GS",
@@ -507,7 +468,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BoilOver.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62609e",
         "role": "Survivor",
         "name": "Adam Francis",
         "name_tag": "HS",
@@ -520,7 +480,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Diversion.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62609f",
         "role": "Survivor",
         "name": "Adam Francis",
         "name_tag": "HS",
@@ -533,7 +492,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deliverance.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a0",
         "role": "Survivor",
         "name": "Adam Francis",
         "name_tag": "HS",
@@ -546,7 +504,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Autodidact.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a1",
         "role": "Survivor",
         "name": "Jeff Johansen",
         "name_tag": "KS",
@@ -559,7 +516,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Breakdown.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a2",
         "role": "Survivor",
         "name": "Jeff Johansen",
         "name_tag": "KS",
@@ -572,7 +528,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Aftercare.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a3",
         "role": "Survivor",
         "name": "Jeff Johansen",
         "name_tag": "KS",
@@ -585,7 +540,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Distortion.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a4",
         "role": "Survivor",
         "name": "Jane Romero",
         "name_tag": "MS",
@@ -598,7 +552,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Solidarity.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a5",
         "role": "Survivor",
         "name": "Jane Romero",
         "name_tag": "MS",
@@ -611,7 +564,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Poised.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a6",
         "role": "Survivor",
         "name": "Jane Romero",
         "name_tag": "MS",
@@ -624,7 +576,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HeadOn.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a7",
         "role": "Survivor",
         "name": "Ash Williams",
         "name_tag": "AW",
@@ -637,7 +588,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FlipFlop.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a8",
         "role": "Survivor",
         "name": "Ash Williams",
         "name_tag": "AW",
@@ -650,7 +600,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BuckleUp.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260a9",
         "role": "Survivor",
         "name": "Ash Williams",
         "name_tag": "AW",
@@ -663,7 +612,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MettleofMan.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260aa",
         "role": "Survivor",
         "name": "Nancy Wheeler",
         "name_tag": "QF",
@@ -676,7 +624,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BetterTogether.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ab",
         "role": "Survivor",
         "name": "Nancy Wheeler",
         "name_tag": "QF",
@@ -689,7 +636,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Fixated.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ac",
         "role": "Survivor",
         "name": "Nancy Wheeler",
         "name_tag": "QF",
@@ -702,7 +648,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/InnerStrength.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ad",
         "role": "Survivor",
         "name": "Steve Harrington",
         "name_tag": "QM",
@@ -715,7 +660,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Babysitter.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ae",
         "role": "Survivor",
         "name": "Steve Harrington",
         "name_tag": "QM",
@@ -728,7 +672,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Camaraderie.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260af",
         "role": "Survivor",
         "name": "Steve Harrington",
         "name_tag": "QM",
@@ -741,7 +684,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SecondWind.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b0",
         "role": "Survivor",
         "name": "Yui Kimura",
         "name_tag": "SS",
@@ -754,7 +696,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/LuckyBreak.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b1",
         "role": "Survivor",
         "name": "Yui Kimura",
         "name_tag": "SS",
@@ -767,7 +708,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/AnyMeansNecessary.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b2",
         "role": "Survivor",
         "name": "Yui Kimura",
         "name_tag": "SS",
@@ -780,7 +720,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Breakout.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b3",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -793,7 +732,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DarkSense.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b4",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -806,7 +744,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DejaVu.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b5",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -819,7 +756,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Hope.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b6",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -832,7 +768,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Kindred.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b7",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -845,7 +780,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Lightweight.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b8",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -858,7 +792,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/NoOneLeftBehind.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260b9",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -871,7 +804,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PlunderersInstinct.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ba",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -884,7 +816,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Premonition.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260bb",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -897,7 +828,7 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Resilience.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260bc",
+
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -910,7 +841,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SlipperyMeat.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260bd",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -923,7 +853,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SmallGame.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260be",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -936,7 +865,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SpineChill.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260bf",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -949,7 +877,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ThisIsNotHappening.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c0",
         "role": "Survivor",
         "name": "All",
         "name_tag": "All",
@@ -962,7 +889,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WellMakeIt.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c1",
         "role": "Killer",
         "name": "Trapper",
         "name_tag": "TR",
@@ -975,7 +901,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/UnnervingPresence.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c2",
         "role": "Killer",
         "name": "Trapper",
         "name_tag": "TR",
@@ -988,7 +913,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BrutalStrength.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c3",
         "role": "Killer",
         "name": "Trapper",
         "name_tag": "TR",
@@ -1001,7 +925,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Agitation.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c4",
         "role": "Killer",
         "name": "Wraith",
         "name_tag": "WR",
@@ -1014,7 +937,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Predator.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c5",
         "role": "Killer",
         "name": "Wraith",
         "name_tag": "WR",
@@ -1027,7 +949,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Bloodhound.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c6",
         "role": "Killer",
         "name": "Wraith",
         "name_tag": "WR",
@@ -1040,7 +961,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Shadowborn.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c7",
         "role": "Killer",
         "name": "Hillbilly",
         "name_tag": "HB",
@@ -1053,7 +973,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Enduring.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c8",
         "role": "Killer",
         "name": "Hillbilly",
         "name_tag": "HB",
@@ -1066,7 +985,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Lightborn.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260c9",
         "role": "Killer",
         "name": "Hillbilly",
         "name_tag": "HB",
@@ -1079,7 +997,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Tinkerer.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ca",
         "role": "Killer",
         "name": "Nurse",
         "name_tag": "NR",
@@ -1092,7 +1009,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Stridor.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260cb",
         "role": "Killer",
         "name": "Nurse",
         "name_tag": "NR",
@@ -1105,7 +1021,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Thanatophobia.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260cc",
         "role": "Killer",
         "name": "Nurse",
         "name_tag": "NR",
@@ -1118,7 +1033,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/AnursesCalling.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260cd",
         "role": "Killer",
         "name": "Myers",
         "name_tag": "SH",
@@ -1131,7 +1045,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SavetheBestforLast.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ce",
         "role": "Killer",
         "name": "Myers",
         "name_tag": "SH",
@@ -1144,7 +1057,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PlaywithYourFood.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260cf",
         "role": "Killer",
         "name": "Myers",
         "name_tag": "SH",
@@ -1157,7 +1069,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DyingLight.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d0",
         "role": "Killer",
         "name": "Hag",
         "name_tag": "HA",
@@ -1170,7 +1081,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexTheThirdSeal.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d1",
         "role": "Killer",
         "name": "Hag",
         "name_tag": "HA",
@@ -1183,7 +1093,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexRuin.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d2",
         "role": "Killer",
         "name": "Hag",
         "name_tag": "HA",
@@ -1196,7 +1105,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexDevourHope.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d3",
         "role": "Killer",
         "name": "Doctor",
         "name_tag": "DO",
@@ -1209,7 +1117,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/OverwhelmingPresence.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d4",
         "role": "Killer",
         "name": "Doctor",
         "name_tag": "DO",
@@ -1222,7 +1129,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MonitorAbuse.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d5",
         "role": "Killer",
         "name": "Doctor",
         "name_tag": "DO",
@@ -1235,7 +1141,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Overcharge.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d6",
         "role": "Killer",
         "name": "Huntress",
         "name_tag": "BE",
@@ -1248,7 +1153,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BeastofPrey.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d7",
         "role": "Killer",
         "name": "Huntress",
         "name_tag": "BE",
@@ -1261,7 +1165,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/TerritorialImperative.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d8",
         "role": "Killer",
         "name": "Huntress",
         "name_tag": "BE",
@@ -1274,7 +1177,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexHuntressLullaby.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260d9",
         "role": "Killer",
         "name": "Cannibal",
         "name_tag": "CA",
@@ -1287,7 +1189,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/KnockOut.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260da",
         "role": "Killer",
         "name": "Cannibal",
         "name_tag": "CA",
@@ -1300,7 +1201,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BarbecueChilli.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260db",
         "role": "Killer",
         "name": "Cannibal",
         "name_tag": "CA",
@@ -1313,7 +1213,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FranklinsDemise.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260dc",
         "role": "Killer",
         "name": "Freddy",
         "name_tag": "EK",
@@ -1326,7 +1225,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FireUp.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260dd",
         "role": "Killer",
         "name": "Freddy",
         "name_tag": "EK",
@@ -1339,7 +1237,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/RememberMe.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260de",
         "role": "Killer",
         "name": "Freddy",
         "name_tag": "EK",
@@ -1352,7 +1249,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BloodWarden.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260df",
         "role": "Killer",
         "name": "Pig",
         "name_tag": "FK",
@@ -1365,7 +1261,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HangmansTrick.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e0",
         "role": "Killer",
         "name": "Pig",
         "name_tag": "FK",
@@ -1378,7 +1273,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Surveillance.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e1",
         "role": "Killer",
         "name": "Pig",
         "name_tag": "FK",
@@ -1391,7 +1285,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MakeYourChoice.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e2",
         "role": "Killer",
         "name": "Clown",
         "name_tag": "GK",
@@ -1404,7 +1297,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Bamboozle.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e3",
         "role": "Killer",
         "name": "Clown",
         "name_tag": "GK",
@@ -1417,7 +1309,7 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Coulrophobia.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e4",
+
         "role": "Killer",
         "name": "Clown",
         "name_tag": "GK",
@@ -1430,7 +1322,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PopGoestheWeasel.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e5",
         "role": "Killer",
         "name": "Spirit",
         "name_tag": "HK",
@@ -1443,7 +1334,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SpiritFury.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e6",
         "role": "Killer",
         "name": "Spirit",
         "name_tag": "HK",
@@ -1456,7 +1346,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexHauntedGround.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e7",
         "role": "Killer",
         "name": "Spirit",
         "name_tag": "HK",
@@ -1469,7 +1358,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Rancor.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e8",
         "role": "Killer",
         "name": "Legion",
         "name_tag": "KK",
@@ -1482,7 +1370,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Discordance.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260e9",
         "role": "Killer",
         "name": "Legion",
         "name_tag": "KK",
@@ -1495,7 +1382,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MadGrit.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ea",
         "role": "Killer",
         "name": "Legion",
         "name_tag": "KK",
@@ -1508,7 +1394,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/IronMaiden.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260eb",
         "role": "Killer",
         "name": "Plague",
         "name_tag": "MK",
@@ -1521,7 +1406,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CorruptIntervention.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ec",
         "role": "Killer",
         "name": "Plague",
         "name_tag": "MK",
@@ -1534,7 +1418,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/InfectiousFright.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ed",
         "role": "Killer",
         "name": "Plague",
         "name_tag": "MK",
@@ -1547,7 +1430,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DarkDevotion.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ee",
         "role": "Killer",
         "name": "Ghost Face",
         "name_tag": "OK",
@@ -1560,7 +1442,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ImAllEars.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ef",
         "role": "Killer",
         "name": "Ghost Face",
         "name_tag": "OK",
@@ -1573,7 +1454,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ThrillingTremors.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f0",
         "role": "Killer",
         "name": "Ghost Face",
         "name_tag": "OK",
@@ -1586,7 +1466,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FurtiveChase.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f1",
         "role": "Killer",
         "name": "Demogorgon",
         "name_tag": "QK",
@@ -1599,7 +1478,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Surge.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f2",
         "role": "Killer",
         "name": "Demogorgon",
         "name_tag": "QK",
@@ -1612,7 +1490,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Mindbreaker.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f3",
         "role": "Killer",
         "name": "Demogorgon",
         "name_tag": "QK",
@@ -1625,7 +1502,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CruelLimits.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f4",
         "role": "Killer",
         "name": "Oni",
         "name_tag": "SK",
@@ -1638,7 +1514,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ZanshinTactics.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f5",
         "role": "Killer",
         "name": "Oni",
         "name_tag": "SK",
@@ -1651,7 +1526,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BloodEcho.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f6",
         "role": "Killer",
         "name": "Oni",
         "name_tag": "SK",
@@ -1664,7 +1538,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Nemesis.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f7",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1677,7 +1550,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BitterMurmur.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f8",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1690,7 +1562,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deerstalker.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260f9",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1703,7 +1574,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Distressing.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260fa",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1716,7 +1586,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexNoOneEscapesDeath.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260fb",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1729,7 +1598,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexThrilloftheHunt.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260fc",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1742,7 +1610,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Insidious.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260fd",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1755,7 +1622,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/IronGrasp.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260fe",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1768,7 +1634,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MonstrousShrine.png"
     },
     {
-        "_id": "5f46d9afa3777022ec6260ff",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1781,7 +1646,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SloppyButcher.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626100",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1794,7 +1658,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SpiesfromtheShadows.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626101",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1807,7 +1670,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Unrelenting.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626102",
         "role": "Killer",
         "name": "All",
         "name_tag": "All",
@@ -1820,7 +1682,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Whispers.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626103",
         "role": "Killer",
         "name": "Deathslinger",
         "name_tag": "UK",
@@ -1833,7 +1694,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/GearHead.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626104",
         "role": "Killer",
         "name": "Deathslinger",
         "name_tag": "UK",
@@ -1846,7 +1706,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DeadMansSwitch.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626105",
         "role": "Killer",
         "name": "Deathslinger",
         "name_tag": "UK",
@@ -1859,7 +1718,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexRetribution.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626106",
         "role": "Survivor",
         "name": "Zarina Kassir",
         "name_tag": "US",
@@ -1872,7 +1730,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/OffTheRecord.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626107",
         "role": "Survivor",
         "name": "Zarina Kassir",
         "name_tag": "US",
@@ -1885,7 +1742,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/RedHerring.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626108",
         "role": "Survivor",
         "name": "Zarina Kassir",
         "name_tag": "US",
@@ -1898,7 +1754,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ForThePeople.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626109",
         "role": "Killer",
         "name": "The Executioner",
         "name_tag": "WK",
@@ -1911,7 +1766,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ForcedPenance.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62610a",
         "role": "Killer",
         "name": "The Executioner",
         "name_tag": "WK",
@@ -1924,7 +1778,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/TrailOfTorment.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62610b",
         "role": "Killer",
         "name": "The Executioner",
         "name_tag": "WK",
@@ -1937,7 +1790,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deathbound.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62610c",
         "role": "Survivor",
         "name": "Cheryl Mason",
         "name_tag": "WS",
@@ -1950,7 +1802,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SoulGuard.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62610d",
         "role": "Survivor",
         "name": "Cheryl Mason",
         "name_tag": "WS",
@@ -1963,7 +1814,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BloodPact.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62610e",
         "role": "Survivor",
         "name": "Cheryl Mason",
         "name_tag": "WS",
@@ -1976,7 +1826,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/RepressedAlliance.png"
     },
     {
-        "_id": "5f46d9afa3777022ec62610f",
         "role": "Killer",
         "name": "The Blight",
         "name_tag": "YK",
@@ -1989,7 +1838,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DragonsGrip.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626110",
         "role": "Killer",
         "name": "The Blight",
         "name_tag": "YK",
@@ -2002,7 +1850,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexBloodFavour.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626111",
         "role": "Killer",
         "name": "The Blight",
         "name_tag": "YK",
@@ -2015,7 +1862,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexUndying.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626112",
         "role": "Survivor",
         "name": "Felix Richter",
         "name_tag": "YS",
@@ -2028,7 +1874,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Visionary.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626113",
         "role": "Survivor",
         "name": "Felix Richter",
         "name_tag": "YS",
@@ -2041,7 +1886,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DesperateMeasures.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626114",
         "role": "Survivor",
         "name": "Felix Richter",
         "name_tag": "YS",
@@ -2054,2061 +1898,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BuiltToLast.png"
     },
     {
-        "_id": "5f46d9afa3777022ec626115",
-        "role": "Survivant",
-        "name": "Meg Thomas",
-        "name_tag": "MT",
-        "perk_name": "Rapide & Silencieux",
-        "perk_tag": "QuickQuiet",
-        "description": "Vous faites moins de bruit que les autres en sautant par-dessus les obstacles ou en vous cachant dans des casiers. La distance à laquelle le bruit causé par ces actions est détecté diminue de 100 % Cet effet ne peut être déclenché qu'une fois toutes les 30/25/20 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/QuickQuiet.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626116",
-        "role": "Survivant",
-        "name": "Meg Thomas",
-        "name_tag": "MT",
-        "perk_name": "Course Effrénée",
-        "perk_tag": "SprintBurst",
-        "description": "Quand vous commencez à courir, vous sprintez à 150 % de votre vitesse normale pendant un maximum de 3 secondes Provoque Épuisement pendant 60/50/40 secondes. Course effrénée ne peut être utilisée pendant Épuisement. Vous ne récupérez pas de l'effet Épuisement en courant.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SprintBurst.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626117",
-        "role": "Survivant",
-        "name": "Meg Thomas",
-        "name_tag": "MT",
-        "perk_name": "Adrénaline",
-        "perk_tag": "Adrenaline",
-        "description": "Alors que vous êtes sur le point de vous échapper, vous vous sentez insufflé d'une énergie nouvelle. Quand le courant électrique des portes de sortie est rétabli, vous récupérez instantanément un segment de santé et courez à 150 % de votre vitesse normale pendant 5 secondes. Adrénaline est en pause si vous êtes immobilisé au moment où elle devrait faire effet et sera activée quand vous serez libéré. Adrénaline vous réveille si vous dormez quand elle est activée. Adrénaline ignore Épuisement . Provoque l'Épuisement pedant 60/50/40 secondes. Vous ne récupérez pas de l'effet Épuisement en courant.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Adrenaline.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626118",
-        "role": "Survivant",
-        "name": "Dwight Fairfield",
-        "name_tag": "DF",
-        "perk_name": "Lien",
-        "perk_tag": "Bond",
-        "description": "Débloque une capacité de repérage d'auras. L'aura des alliés vous est révélée quand ils se trouvent dans un rayon de 20/28/36 mètres.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Bond.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626119",
-        "role": "Survivant",
-        "name": "Dwight Fairfield",
-        "name_tag": "DF",
-        "perk_name": "Montrez Ce Que Vous Savez Faire",
-        "perk_tag": "ProveThyself",
-        "description": "Augmente la vitesse de réparation de 15 % par survivant supplémentaire travaillant sur un générateur dans un rayon de 4 mètres. Ce bonus s'applique également à tous les autres survivants à portée. Rapporte 50/75/100 % de points de sang supplémentaires lors des actions en coop. Le survivants ne peuvent pas avoir plus d'un effet \"Montrez Ce Que Vous Savez Faire\" en même temps.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ProveThyself.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62611a",
-        "role": "Survivant",
-        "name": "Dwight Fairfield",
-        "name_tag": "DF",
-        "perk_name": "Meneur",
-        "perk_tag": "Leader",
-        "description": "Vous êtes capable d'organiser une équipe pour qu'elle coopère plus efficacement. Augmente la vitesse de soins, de sabotage, de purification, d'ouverture des portes de sortie et de fouille des autres survivants de 15/20/25 %, quand ils se trouvent dans un rayon de 8 mètres autour de vous. Les survivants ne peuvent pas avoir plus d'un effet Meneur à la fois. Même hors de portée du Meneur, l'effet persiste pendant 15 secondes pour les autres survivants.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Leader.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62611b",
-        "role": "Survivant",
-        "name": "Claudette Morel",
-        "name_tag": "CM",
-        "perk_name": "Empathie",
-        "perk_tag": "Empathy",
-        "description": "Débloque une capacité de repérage d'auras. Celles des alliés en état critique ou blessés vous sont révélées dans un rayon de 64/96/128 mètres. Empathie ne révèle pas l'aura des alliés quand ils sont en contact direct avec le tueur.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Empathy.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62611c",
-        "role": "Survivant",
-        "name": "Claudette Morel",
-        "name_tag": "CM",
-        "perk_name": "Connaissances En Botanique",
-        "perk_tag": "BotanyKnowledge",
-        "description": "Vous transformez les plantes bordant le camp en teintures qui réduisent les hémorragies. La vitesse de soins et l'efficacité des objets de soins augmentent de 11/22/33 %.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BotanyKnowledge.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62611d",
-        "role": "Survivant",
-        "name": "Claudette Morel",
-        "name_tag": "CM",
-        "perk_name": "Prophylaxie",
-        "perk_tag": "SelfCare",
-        "description": "Débloque la capacité de vous soigner sans objet de soins à 50 % de la vitesse de soins normale. Augmente l'efficacité des auto-soins avec objet de soins de 10/15/20 %.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SelfCare.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62611e",
-        "role": "Survivant",
-        "name": "Jake Park",
-        "name_tag": "JP",
-        "perk_name": "Volonté De Fer",
-        "perk_tag": "IronWill",
-        "description": "Vous êtes capable de vous concentrer pour entrer dans un état méditatif qui vous fait oublier la douleur. Les gémissement de douleur causés par les blessures sont réduits de 50/75/100 %.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/IronWill.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62611f",
-        "role": "Survivant",
-        "name": "Jake Park",
-        "name_tag": "JP",
-        "perk_name": "Esprit Calme",
-        "perk_tag": "CalmSpirit",
-        "description": "Les animaux semblent vous faire confiance, car ils ne sont que rarement effrayés par votre présence. Réduit la probabilité d'alerter les animaux des bois de 80/90/100 %. Esprit calme vous permet de surmonter l'envie de crier.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CalmSpirit.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626120",
-        "role": "Survivant",
-        "name": "Jake Park",
-        "name_tag": "JP",
-        "perk_name": "Saboteur",
-        "perk_tag": "Saboteur",
-        "description": "Débloque le potentiel de repérage d'aura. • Vous voyez les auras dans un rayon de 56 mètres autour du point de ramassage si un survivant est en train d'être transporté. Débloque la capacité de sabotage des crochets sans boîte à outils. • Saboter un crochet sans boîte à outils prend 2.5 secondes. • L'action de sabotage a un temps de recharge de 90/75/60 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Saboteur.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626121",
-        "role": "Survivant",
-        "name": "Nea Karlsson",
-        "name_tag": "NK",
-        "perk_name": "Atterrissage Équilibré",
-        "perk_tag": "BalancedLanding",
-        "description": "Votre agilité est incomparable. Lorsque vous tombez de haut, vos réflexes de chat réduisent la durée des étourdissements consécutifs aux chutes de 75 % et le volume des grognements en tombant de 100 %. Vous courez à 150% de votre vitesse normale pendant un maximum de 3 secondes. Provoque l'effet de statut Épuisement pendant 60/50/40 secondes. Impossible d'utiliser Atterrissage équilibré sous l'effet de statut Épuisement. Vous ne vous rétablissez pas de l'effet de statut Épuisement tant que vous courez.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BalancedLanding.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626122",
-        "role": "Survivant",
-        "name": "Nea Karlsson",
-        "name_tag": "NK",
-        "perk_name": "Évasion Urbaine",
-        "perk_tag": "UrbanEvasion",
-        "description": "Des années passées à éviter la police vous ont appris pas mal de trucs en matière de furtivité. Votre vitesse de mouvement en position accroupie augmente de 90/95/100 %.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/UrbanEvasion.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626123",
-        "role": "Survivant",
-        "name": "Nea Karlsson",
-        "name_tag": "NK",
-        "perk_name": "Ad Augusta Per Angusta",
-        "perk_tag": "Streetwise",
-        "description": "De longues nuits solitaires vous ont appris à faire beaucoup avec peu de moyens. Réduit la consommation de charge d'un objet de 15/20/25 % pour vous et vos alliés se trouvant dans un rayon de 8 mètres. Une fois hors de portée, cette effet dure pendant 15 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Streetwise.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626124",
-        "role": "Survivant",
-        "name": "Laurie Strode",
-        "name_tag": "LS",
-        "perk_name": "Dernier Survivant",
-        "perk_tag": "SoleSurvivor",
-        "description": "Tandis que vos compagnons succombent au tueur les uns après les autres, vous vous isolez de plus en plus, ce qui vous dissimule et perturbe les capacités de repérage d'aura du tueur. Votre aura est invisible pour le tueur dans un rayon maximal de • 20/22/24 mètres par survivant tué ou sacrifié. Augmente vos chances d'être la cible d'obsession du tueur. Le tueur ne peut être obsédé que par un seul survivant à la fois.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SoleSurvivor.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626125",
-        "role": "Survivant",
-        "name": "Laurie Strode",
-        "name_tag": "LS",
-        "perk_name": "Objet d'Obsession",
-        "perk_tag": "ObjectofObsession",
-        "description": "Un lien surnaturel vous unit au tueur. Si vous regardez dans sa direction, votre lien lui révèle votre aura, tout en vous révélant la sienne.Cet effet s'applique uniquement si vous vous trouvez à l'extérieur du rayon de terreur du tueur. Si vous êtes l'obsession du tueur, cet effet a une portée maximale de 56/64/72 mètres. Sinon, celle-ci est de 44/56/64 mètres. • Augmente vos chance de devenir l'obsession du tueur. • Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ObjectofObsession.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626126",
-        "role": "Survivant",
-        "name": "Laurie Strode",
-        "name_tag": "LS",
-        "perk_name": "Coup Décisif",
-        "perk_tag": "DecisiveStrike",
-        "description": "Utilisant tout ce que vous avez sous la main, vous poignardez votre agresseur dans une dernière tentative pour vous échapper. Après avoir été libéré du crochet ou vous être libéré vous-même, Coup décisif sera actif et utilisable pendant 40/50/60 secondes. Si le tueur vous attrape quand Coup décisif est actif, réussissez un test d'habilité pour échapper automatiquement à sa poigne et l'étourdir pendant 5 secondes. • Réussir ou rater le test d'habilité de Coup décisif désactivera Coup décisif. • Si vous parvenez à étourdir le tueur, vous en deviendrez l'obsession. Augmente vos chances d'être la cible d'obséssion du tueur. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DecisiveStrike.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626127",
-        "role": "Survivant",
-        "name": "Ace Visconti",
-        "name_tag": "AV",
-        "perk_name": "Le Cœur Sur La Main",
-        "perk_tag": "OpenHanded",
-        "description": "Renforce vos capacités de repérage d'auras et celles de votre équipe. • Augmente la portée du repérage d'auras de 4/6/8 mètres.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/OpenHanded.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626128",
-        "role": "Survivant",
-        "name": "Ace Visconti",
-        "name_tag": "AV",
-        "perk_name": "Augmenter La Mise",
-        "perk_tag": "UptheAnte",
-        "description": "Tout ce terminera bien, vous le sentez. Votre confiance en vous ravive l'espoir de ceux qui se trouvent autour de vous. Confère 1/2/3 % de bonus de chance à tous les survivants, pour chaque survivant encore en vie.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/UptheAnte.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626129",
-        "role": "Survivant",
-        "name": "Ace Visconti",
-        "name_tag": "AV",
-        "perk_name": "Un Ace Dans La Manche",
-        "perk_tag": "AceintheHole",
-        "description": "Dame Fortune semble vous choyer en permanence. Quand vous trouvez un objet dans un coffre, il y a 100 % de chances qu'un accessoire très rare ou inférieur y soit attaché. 10/25/50 % de chances de trouvez un accessoire peu commun ou inférieur. En vous échappant, conservez tous les accessoires de votre objet.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/AceintheHole.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62612a",
-        "role": "Survivant",
-        "name": "W. Bill Overbeck",
-        "name_tag": "BO",
-        "perk_name": "Laissé Pour Mort",
-        "perk_tag": "LeftBehind",
-        "description": "Débloque le potentiel de repérage d'aura d'une personne. Si vous êtes le dernier survivant lors de la partie, vous pouvez voir l'aura de la trappe jusqu’à 24/28/32 mètres.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/LeftBehind.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62612b",
-        "role": "Survivant",
-        "name": "W. Bill Overbeck",
-        "name_tag": "BO",
-        "perk_name": "Sur La Réserve",
-        "perk_tag": "BorrowedTime",
-        "description": "Une énergie insoupçonnée vous remplit en sauvant un allié d'un crochet si vous vous tenez dans le rayon de terreur du tueur. Après avoir décroché un survivant dans le rayon de terreur du tueur, il bénéficie de l'effet de statut Endurance pendant 15 seconds, Tous les dégâts qui auraient placé le survivant décroché en état critique déclenchent à la place une Blessure profonde. Le survivant a 10/15/20 secondes pour s'auto-suturer. Le survivant décroché passe immédiatement en état critique s'il subit des dégâts durant Blessure profonde ou si le chronomètre de Blessure profonde arrive à expiration.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BorrowedTime.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62612c",
-        "role": "Survivant",
-        "name": "W. Bill Overbeck",
-        "name_tag": "BO",
-        "perk_name": "Indéfectible",
-        "perk_tag": "Unbreakable",
-        "description": "Votre expérience du combat vous a appris quelques précieuses leçons sur comment survivre. Une fois par partie, vous avez la capacité de vous rétablir entièrement de l'état critique. Augmente la vitesse de récupération de l'état critique de 25/30/35 %.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Unbreakable.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62612d",
-        "role": "Survivant",
-        "name": "Feng Min",
-        "name_tag": "FM",
-        "perk_name": "Technicien",
-        "perk_tag": "Technician",
-        "description": "Vous êtes capables de manier des machines avec la plus grande précision et attention. Le bruit occasionné par vos réparations et la distance à laquelle ils peuvent être perçus sont réduits de 8 mètres. Si le test d'habileté pour la réparation échoue, il y a 30% de chances que l'explosion du générateur soit évitée.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Technician.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62612e",
-        "role": "Survivant",
-        "name": "Feng Min",
-        "name_tag": "FM",
-        "perk_name": "Souple",
-        "perk_tag": "Lithe",
-        "description": "Après un saut précipité, vous courez à 150% de votre vitesse normale pendant un maximum de 3 secondes. Provoque épuisement pendant 60 secondes. Souple ne peut pas être utilisé pendant Epuisement. Vous ne récupérez pas de l'effet Epuisement tant que vous courez.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Lithe.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62612f",
-        "role": "Survivant",
-        "name": "Feng Min",
-        "name_tag": "FM",
-        "perk_name": "Vigilant",
-        "perk_tag": "Alert",
-        "description": "Vos sens aiguisés sont en alerte. Lorsque le tueur casse quelque chose, il vous est révélé pendant 3 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Alert.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626130",
-        "role": "Survivant",
-        "name": "David King",
-        "name_tag": "DK",
-        "perk_name": "Nous Vivrons Eternellement",
-        "perk_tag": "WereGonnaLiveForever",
-        "description": "Le peu d'amis que vous avez méritent la meilleure protection possible. A chaque fois que vous effectuez un décrochage sécuritaire ou que vous encaissez un coup pour protéger un survivant, vous recevez 25% de bonus cumulable sur tous vos gains de points de sang jusqu'à un maximum de 50%. Vous recevrez les points de sang qu'après la partie.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WereGonnaLiveForever.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626131",
-        "role": "Survivant",
-        "name": "David King",
-        "name_tag": "DK",
-        "perk_name": "Drôlement dur",
-        "perk_tag": "DeadHard",
-        "description": "Compétence active. Vous êtes plus solide que vous ne le pensez. Lorsque vous êtes blessé, vous puisez dans vos réserves d'adrénaline pour vous élancer vers l'avant et éviter les dégâts. Appuyez sur le bouton de Capacité active en courant pour sprinter vers l'avant. Durant le sprint, vous évitez les dégâts. Inflige l'effet de statut Epuisement pendant 60 secondes. Vous ne récupérez pas de l'effet de statut Epuisement en courant.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DeadHard.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626132",
-        "role": "Survivant",
-        "name": "David King",
-        "name_tag": "DK",
-        "perk_name": "Pas Envie",
-        "perk_tag": "NoMither",
-        "description": "Vous êtes affecté par l'effet de statut Brisé pendant toute la durée de la partie. Votre sang épais coagule presque instantanément. Vous ne laissez pas de flaques de sang. Les gémissements de douleur dus aux blessures sont toujours réduits de 0%. Vous accorde la possibilité de récupérer pleinement d'un état critique.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/NoMither.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626133",
-        "role": "Survivant",
-        "name": "Quentin Smith",
-        "name_tag": "ES",
-        "perk_name": "Debout !",
-        "perk_tag": "WakeUp",
-        "description": "Débloque le potentiel de repérer les auras. Une fois que tous les générateurs ont été activés, les portes de sortie vous sont révélées à une portée de 128 mètres. Votre aura est révélée aux autres survivants jusqu'à 128 mètres lorsque vous ouvrez les portes de sortie. Lorsque Debout ! est actif, vous ouvrez les portes de sorties 5% plus rapidement.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WakeUp.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626134",
-        "role": "Survivant",
-        "name": "Quentin Smith",
-        "name_tag": "ES",
-        "perk_name": "Pharmacie",
-        "perk_tag": "Pharmacy",
-        "description": "Vous avez un don pour trouver des médicaments. Vous fouillez les coffres 40% plus rapidement, et le bruit occasionné ainsi que la distance à laquelle il peut être perçu sont réduits de 8 mètres. Pharmacie vous permet de trouver une trousse de soins d'urgence à coup sûr dans le premier coffre entièrement fouillé.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Pharmacy.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626135",
-        "role": "Survivant",
-        "name": "Quentin Smith",
-        "name_tag": "ES",
-        "perk_name": "Vigil",
-        "perk_tag": "Vigil",
-        "description": "Vous veillez sur vos amis même dans les situations les plus rudes. Vous, et vos alliés dans un rayon de 8 mètres, récupérez des effets de statut Epuisement, Hémorragie, Estropiement, Entrave et Aveuglement 10% plus rapidement. Une fois hors de portée, cet effet dure pendant 15 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Vigil.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626136",
-        "role": "Survivant",
-        "name": "David Tapp",
-        "name_tag": "FS",
-        "perk_name": "Ténacité",
-        "perk_tag": "Tenacity",
-        "description": "Rien ne vous arrête. Votre incroyable ténacité dans les situations difficiles vous permet de ramper 30% plus vite tout en récupérant.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Tenacity.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626137",
-        "role": "Survivant",
-        "name": "David Tapp",
-        "name_tag": "FS",
-        "perk_name": "Intuition De L'Inspecteur",
-        "perk_tag": "DetectivesHunch",
-        "description": "Débloque le potentiel de repérage d'aura d'une personne. Quand un générateur est terminé, l'aura des générateurs, des coffres et des totems dans un rayon de 32 mètres vous est révélée pendant 10 secondes. Si vous détenez une carte qui peut suivre les objectifs, les générateurs, les coffres et les totems révélés par Intuition de l'inspecteur y sont ajoutés.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DetectivesHunch.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626138",
-        "role": "Survivant",
-        "name": "David Tapp",
-        "name_tag": "FS",
-        "perk_name": "En Planque",
-        "perk_tag": "StakeOut",
-        "description": "Votre détermination augmente quand vous vous rapprochez du tueur. A chaque fois que vous passez 15 secondes dans le rayon de terreur du tueur sans être poursuivi, vous gagnez un jeton (jusqu'à 4 jetons maximum). Quand En planque bénéficie d'au moins 1 jeton, les Bons tests d'habileté sont considérés comme d'Excellents tests d'habileté, ils consomment 1 jeton et octroient un bonus supplémentaire d'1% à la progression de réparation du générateur.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/StakeOut.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626139",
-        "role": "Survivant",
-        "name": "Kate Denson",
-        "name_tag": "GS",
-        "perk_name": "Danse Avec Moi",
-        "perk_tag": "DanceWithMe",
-        "description": "Lors d'un saut d'obstacle rapide ou si vous quittez un casier en vitesse, vous ne laissez pas de marques d'éraflure pendant 3 secondes. Danse avec moi a un temps de récupération de 60 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DanceWithMe.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62613a",
-        "role": "Survivant",
-        "name": "Kate Denson",
-        "name_tag": "GS",
-        "perk_name": "Parfaite Occasion",
-        "perk_tag": "WindowsOfOpportunity",
-        "description": "Débloque le potentiel de repérage d'aura. L'aura des palettes, des murs destructibles et des sauts d'obstacles vous est révélée dans un rayon de 20 mètres. Parfaite occasion a un temps de récupération de 30 secondes lorsque vous faites tomber une palette ou lors d'un saut d'obstacles pendant une poursuite.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WindowsofOpportunity.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62613b",
-        "role": "Survivant",
-        "name": "Kate Denson",
-        "name_tag": "GS",
-        "perk_name": "Effusion",
-        "perk_tag": "BoilOver",
-        "description": "Vous êtes un battant et faites votre possible pour vous sortir des griffes du tueur. Vos effets de lutte contre le tueur sont augmentés de 25%. Vous obscurcissez la capacité du tueur à voir l'aura des crochets sur 10 mètres.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BoilOver.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62613c",
-        "role": "Survivant",
-        "name": "Adam Francis",
-        "name_tag": "HS",
-        "perk_name": "Diversion",
-        "perk_tag": "Diversion",
-        "description": "Compétence pouvant être activée. Se trouver dans le rayon de terreur du tueur lorsqu'il n'y a pas de poursuite pendant 45 secondes active Diversion. Une fois Diversion activée, appuyez sur le bouton de capacité active en étant accroupi et immobile afin de jeter un caillou, qui crée une distraction pour le tueur, à une distance de 10 mètres. Le chrono de la compétence est réinitialisé après l'activation de la capacité. Détail de la distraction : alerte par un fort bruit et des marques d'éraflures.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Diversion.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62613d",
-        "role": "Survivant",
-        "name": "Adam Francis",
-        "name_tag": "HS",
-        "perk_name": "Libération",
-        "perk_tag": "Deliverance",
-        "description": "Après avoir réalisé le décrochage sécuritaire d'un autre survivant, Libération s'active. Vous avez désormais 100% de chances de vous décrocher vous-même lors d'une tentative d'évasion. Une Libération du crochet réussie déclenche l'effet de statut Brisé pendant 100 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deliverance.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62613e",
-        "role": "Survivant",
-        "name": "Adam Francis",
-        "name_tag": "HS",
-        "perk_name": "Autodidacte",
-        "perk_tag": "Autodidact",
-        "description": "Vous commencez la partie avec -25% de malus de progression pour les tests d'habileté à soigner les survivants. Chaque fois que vous réussissez un test d'habileté en soignant un survivant, vous recevez un jeton, jusqu'à un maximum de 3 jetons. Chaque jeton vous confère +15% de progression bonus lorsque vous réussissez un test d'habileté en soignant les survivants. Les excellents tests d'habileté ne peuvent pas être réalisés lorsque vous utilisez Autodidacte. Autodidacte n'est pas actif lorsque vous utilisez une trousse de premiers soins.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Autodidact.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62613f",
-        "role": "Survivant",
-        "name": "Jeff Johansen",
-        "name_tag": "KS",
-        "perk_name": "Dépression",
-        "perk_tag": "Breakdown",
-        "description": "Chaque fois que vous êtes libéré d'un crochet (en vous échappant ou en étant secouru), ce dernier se brise et vous pouvez voir l'aura du tueur pendant 4 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Breakdown.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626140",
-        "role": "Survivant",
-        "name": "Jeff Johansen",
-        "name_tag": "KS",
-        "perk_name": "Convalescence",
-        "perk_tag": "Aftercare",
-        "description": "Débloque la capacité à voir les auras. Vous voyez l'aura de tout survivant : que vous sauvez ou qui vous sauve d'un crochet et que vous soignez ou qui vous soigne. Le survivant voit lui aussi votre aura. Vous pouvez faire cela avec un maximum de 1 survivant. Tous les effets de cette compétence sont réinitialisés quand le tueur vous suspend à un crochet.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Aftercare.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626141",
-        "role": "Survivant",
-        "name": "Jeff Johansen",
-        "name_tag": "KS",
-        "perk_name": "Distorsion",
-        "perk_tag": "Distortion",
-        "description": "Vous commencez la partie avec 3 jetons. Quand votre aura devrait être visible par le tueur, Distorsion s'active et un jeton est consommé. Durant les 6 prochaines secondes, tant que Distorsion est activée, votre aura et vos marques d'éraflures ne peuvent être détectées par le tueur. Distorsion ne peut être activée lorsque vous êtes dans un état critique ou pris dans un piège.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Distortion.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626142",
-        "role": "Survivant",
-        "name": "Jane Romero",
-        "name_tag": "MS",
-        "perk_name": "Solidarité",
-        "perk_tag": "Solidarity",
-        "description": "Partager des expériences douloureuses a un pouvoir curatif. Quand vous êtes blessé, soigner un survivant sans trousse de soins vous soigne également à un taux de conversion de 40%.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Solidarity.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626143",
-        "role": "Survivant",
-        "name": "Jane Romero",
-        "name_tag": "MS",
-        "perk_name": "Assurance",
-        "perk_tag": "Poised",
-        "description": "Atteindre des objectifs renforce votre confiance. Quand un générateur est réparé, vous ne laissez aucune marque d'éraflures pendant 6 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Poised.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626144",
-        "role": "Survivant",
-        "name": "Jane Romero",
-        "name_tag": "MS",
-        "perk_name": "De Front",
-        "perk_tag": "HeadOn",
-        "description": "Quand vous avez décidé de faire quelque chose, mieux vaut ne pas se mettre en travers de votre route. Après 3 secondes à l'intérieur d'un casier, Détermination s'active. Tant que Détermination est active, effectuez une action précipitée en sortant du casier pour utiliser Détermination. Si le tueur se tient dans la portée d'effet de Détermination, il est étourdi pendant 3 secondes. Provoque l'effet de statut Epuisement pendant 40 secondes. Détermination ne peut pas être utilisé quand vous êtes épuisé. Vous ne récupérez pas de l'effet de statut Epuisement pendant que vous courez. Détermination ne peut pas être utilisé si votre arrêt prolongé a attiré des corbeaux.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HeadOn.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626145",
-        "role": "Survivant",
-        "name": "Ash Williams",
-        "name_tag": "AW",
-        "perk_name": "Gigoteur",
-        "perk_tag": "FlipFlop",
-        "description": "Vous possédez la capacité improbable d'échapper à l'inévitable. En état critique 50% de vos progrès de récupération sont convertis en progrès de gigotement quand le tueur vous saisit, jusqu'à un maximum de 40% de progrès de gigotement au total.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FlipFlop.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626146",
-        "role": "Survivant",
-        "name": "Ash Williams",
-        "name_tag": "AW",
-        "perk_name": "Accrochez-vous",
-        "perk_tag": "BuckleUp",
-        "description": "Renforce la capacité de repérage d'auras. Le stade de récupération des survivants en état critique peut être déterminé par l'intensité de leur aura à une distance maximale de 48 mètres. Quand vous aidez un survivant à passer de l'état critique à blessé, le survivant et vous-même voyez l'aura du tueur pendant 4 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BuckleUp.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626147",
-        "role": "Survivant",
-        "name": "Ash Williams",
-        "name_tag": "AW",
-        "perk_name": "Force De Caractère",
-        "perk_tag": "MettleofMan",
-        "description": "Le mal parvient toujours a vous trouver. Force de caractère s'active après avoir pris un coup pour protéger un survivant 3 fois. Une fois la compétence activée, la prochaine attaque qui devait vous passer d'un état blessé à un état critique est ignorée. La prochaine fois que vous récupérerez 100% de votre santé, votre aura sera détectée par le tueur si vous êtes à plus de 12 mètres de lui. Force de caractère sera desactivée la prochaine fois que vous serez en état critique. Augmente vos chances de devenir l'obsession du tueur. Le tueur ne peut être obsédé que par un obsédé que par un survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MettleofMan.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626148",
-        "role": "Survivant",
-        "name": "Nancy Wheeler",
-        "name_tag": "QF",
-        "perk_name": "Mieux Ensemble",
-        "perk_tag": "BetterTogether",
-        "description": "Vous cherchez la justice et la vérité sans tenir compte des obstacles. L'aura du générateur que vous êtes en train de réparer apparaît à tous les autres survivants situés à moins de 32 mètres. Si le tueur met à terre un survivant pendant que vous réparez un générateur vous voyez l'aura de tous les autres survivants pendant 8 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BetterTogether.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626149",
-        "role": "Survivant",
-        "name": "Nancy Wheeler",
-        "name_tag": "QF",
-        "perk_name": "Obnubilé",
-        "perk_tag": "Fixated",
-        "description": "Quand vous avez un objectif en tête, vous n'y renoncez pas : mieux vaut demander pardon que la permission. Vous pouvez voir vos propres marques d'éraflure en permanence. Tant que vous n'êtes pas blessé vous marchez 10% plus vite.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Fixated.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62614a",
-        "role": "Survivant",
-        "name": "Nancy Wheeler",
-        "name_tag": "QF",
-        "perk_name": "Force Intérieure",
-        "perk_tag": "InnerStrength",
-        "description": "Vous vous concentrez sur vous-même et faites confiance à votre instinct quand vous vous sentez seul et perdu. Chaque fois que vous purifiez un totem, Force Intérieure s'active. Si vous avez déjà l'effet de statut Brisé, Force intérieure ne s'active pas. Tant que force intérieure est activée, se cacher dans un casier pendant 10 secondes en étant blessé vous soignera automatiquement de blessé à en forme. Force Intérieure se désactive dès cela fait.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/InnerStrength.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62614b",
-        "role": "Survivant",
-        "name": "Steve Harrington",
-        "name_tag": "QM",
-        "perk_name": "Baby-Sitter",
-        "perk_tag": "Babysitter",
-        "description": "Bien que vous ayez la réputation d'être égocentrique, vous risquez tout pour aider ceux dans le besoin. Lorsque vous libérez un survivant d'un crochet, il ne laisse pas de marque d'éraflure ni de traînée de sang pendant 4 secondes. Vous voyez l'aura du tueur et il voit la votre pendant 4 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Babysitter.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62614c",
-        "role": "Survivant",
-        "name": "Steve Harrington",
-        "name_tag": "QM",
-        "perk_name": "Camaraderie",
-        "perk_tag": "Camaraderie",
-        "description": "La vie vous a appris l'importance de l'amitié ce qui vous a rendu plus fort. Tant que vous êtes sur le crochet pendant la phase de lutte, Camaraderie s'active. Si un autre survivant se tient à 16 mètres de vous pendant que Camaraderie est activée, le chronomètre de crochet est mis en pause pendant 26 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Camaraderie.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62614d",
-        "role": "Survivant",
-        "name": "Steve Harrington",
-        "name_tag": "QM",
-        "perk_name": "Second Souffle",
-        "perk_tag": "SecondWind",
-        "description": "Après avoir soigné l'équivalent d'un état de santé chez les autres survivants, Second Souffle s'active. Si vous êtes déjà sous l'effet de statut Brisé, Second souffle ne s'active pas. Tant que seconde souffle est activé, votre libération suivante d'un crochet, avec ou sans aide, vous place sous l'effet de statut Brisé. Après une durée totale de 34 secondes, Second Souffle ous soigne automatiquement de blessé à en forme. Second souffle se désactive dès que vous êtes en forme ou si vous tombez en état critique avant que Second souffle termine avec succès son activation. Vous perdez l'effet de statut Brisé.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SecondWind.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62614e",
-        "role": "Survivant",
-        "name": "Yui Kimura",
-        "name_tag": "SS",
-        "perk_name": "Coup De Chance",
-        "perk_tag": "LuckyBreak",
-        "description": "Vous avez encaissé votre lot de oups et de bleus, mais la chance a toujours été de votre côté. Coup de chance s'active quand vous êtes blessé. Vous ne laissez pas de traces de sang pendant un total de 120 secondes. Une fois cette durée écoulée, Coup de chance est désactivée de manière permanente pour le reste de la partie.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/LuckyBreak.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62614f",
-        "role": "Survivant",
-        "name": "Yui Kimura",
-        "name_tag": "SS",
-        "perk_name": "Par Tous Les Moyens",
-        "perk_tag": "AnyMeansNecessary",
-        "description": "Vous vous battez pour vous-même, utilisant tout ce qui vous passe par la main pour avoir l'avantage. Appuyez et maintenez le bouton de capacité pendant 4 secondes à côté d'une palette lâchée pour la réinitialiser en position verticale. Par tous les moyens a un temps de recharge de 140 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/AnyMeansNecessary.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626150",
-        "role": "Survivant",
-        "name": "Yui Kimura",
-        "name_tag": "SS",
-        "perk_name": "Fugue",
-        "perk_tag": "Breakout",
-        "description": "Quand quelqu'un a des problèmes, vous vous donnez à fond et vous pousse les autres à surmonter les obstacles. A 6 mètres maximum d'un survivant transporté, vous bénéficiez de l'effet de statut Rapidité, votre vitesse de mouvement augmente de 5% et la vitesse de gigotement du survivant transporté augmente de 20%.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Breakout.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626151",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Sentiment Obscur",
-        "perk_tag": "DarkSense",
-        "description": "Débloque le potentiel de repérage d'aura d'une personne. Chaque fois qu'un générateur est réparé, l'aura du tueur vous est révélée pendant 5 secondes. Lorsque le dernier générateur est mis sous tension, l'aura du tueur vous est révélée pendant 10 secondes",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DarkSense.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626152",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Déjà-Vu",
-        "perk_tag": "DejaVu",
-        "description": "Débloque une capacité de repérage d'aura. La paranoïa, associer à la peur de l'échec, vous aide à ne pas répéter les mêmes erreurs. Les auras de 3 générateurs proches les uns des autres vous sont révélées pendant 60 secondes. Si vous tenez une carte permettant de localiser les générateurs, ceux révélés pas Déjà-vu sont ajoutes à la carte.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DejaVu.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626153",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Espoir",
-        "perk_tag": "Hope",
-        "description": "Les perspectives d'évasion réussie vous comblent d'espoir et vous donnent des ailes. Dès que le courant électrique des portes de sortie est rétabli, vous recevez un effet de statut Rapidité de 7% pendant 120 secondes.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Hope.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626154",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Parenté",
-        "perk_tag": "Kindred",
-        "description": "Débloque une capacité de repérage d'auras. Quand vous êtes sur le crochet, toutes les auras de survivants sont aux autres survivants. Si le tueur se trouve dans un rayon de 16 mètres, son aura est révélée à tous les survivants. Quand un survivant autre que vous est suspendu au crochet, vous voyez l'aura de tous les autres survivants. Si le tueur se trouve dans un rayon de 16 mètres du survivant suspendu, vous voyez l'aura du tueur.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Kindred.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626155",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Poids Plume",
-        "perk_tag": "Lightweight",
-        "description": "Votre foulée souple et légère rend vos traces difficiles à pister. Les empreintes restent visibles 3 secondes de moins que la normale.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Lightweight.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626156",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "On N'Abandonne Personne",
-        "perk_tag": "NoOneLeftBehind",
-        "description": "Il est impensable d'abandonner quelqu'un. Quand l'une des portes de sortie s'ouvre, vous bénéficiez des effets suivants : - 100% de point de sang supplémentaires pour soigner ou décroché d'autres survivants. - Bonus de 50% à la vitesse d'action pour soigner ou décrocher d'autres survivants.- Vous voyez l'aura de tous les autres survivants.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/NoOneLeftBehind.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626157",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Instinct De Pillard",
-        "perk_tag": "PlunderersInstinct",
-        "description": "Débloque le potentiel de repérage d'aura. L'aura des coffres fermés et des objets de l'environnement vous est révélée quand ils se trouvent dans un rayon de 32 mètres. Augmente considérablement les chances de trouver un article de grande rareté dans les coffres.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PlunderersInstinct.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626158",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Prémonition",
-        "perk_tag": "Premonition",
-        "description": "Vous avez un indéniable talent pour sentir le danger. Recevez un avertissement sonore quand vous regardez dans la direction du tueur dans un cône de 45 degrés et dans un rayon de 36 mètres. Prémonition a un temps de recharge de 30 secondes à chaque activation.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Premonition.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626159",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Résistance",
-        "perk_tag": "Resilience",
-        "description": "Vous êtes proactif dans les situations d'urgences. Alloue 9% de vitesse supplémentaire au réparations, sabotages, soins, décrochages, sauts d'obstacles, nettoyages, ouvertures des portes de sortie et recherches quand vous êtes blessé.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Resilience.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62615a",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Viande Glissante",
-        "perk_tag": "SlipperyMeat",
-        "description": "Vous avez développé une technique efficace pour vous libérer des pièges à ours et des crochets. -Augmente de 3 le nombre de tentatives pour se libérer du crochets. - Les chances de vous libérer des pièges à ours augmentent de 25%.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SlipperyMeat.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62615b",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Petit Gibier",
-        "perk_tag": "SmallGame",
-        "description": "Vous avez un indéniable talent pour sentir le danger. Recevez un avertissement sonore quand vous regardez dans la direction d'un piège ou un totem du tueur dans un cône de 45 degrés et dans un rayon de 12 mètres. Petit Gibier a un temps de rechargement de 10 secondes à chaque activation. Fonctionne seulement avec les pièges posés par le tueur.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SmallGame.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62615c",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Frisson",
-        "perk_tag": "SpineChill",
-        "description": "Un frisson surnaturel vous avertit d'un danger imminent. Vous êtes informé quand le tueur regarde directement dans votre direction et qu'il se trouve à moins de 36 mètres. Tant que frisson est actif, vous avez 10% de chances supplémentaires de générer un test d'habileté avec des zones de succès réduites de 10%. Tant que frisson est actif, vos vitesses de réparation, de sabotage, de soins, de décrochage, de saut d'obstacles, de purification, d'ouverture de porte de sortie et de fouille augmentent de 6%.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SpineChill.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62615d",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Ce N'est Pas En Train D'arriver",
-        "perk_tag": "ThisIsNotHappening",
-        "description": "Vous êtes plus performant sous pression. Les zones de succès des tests d'habileté excellents des réparations, soins et sabotages sont élargies de 30% quand vous êtes blessé.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ThisIsNotHappening.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62615e",
-        "role": "Survivant",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Nous Y Arriverons",
-        "perk_tag": "WellMakeIt",
-        "description": "Aider les autres vous remonte le moral. Pour chaque Survivant sauvé d'un crochet, vous gagnez 100% d'augmentation de la vitesse de soins lorsque vous soignez les autres, et ce pendant 90 secondes. Le cumul des bonus de soins ne peut pas excéder 100%.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/WellMakeIt.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62615f",
-        "role": "Tueur",
-        "name": "Trapper",
-        "name_tag": "TR",
-        "perk_name": "Présence Perturbante",
-        "perk_tag": "UnnervingPresence",
-        "description": "Votre seule présence inspire la peur. Les survivants qui se trouvent dans votre rayon de terreur ont 10% de chances supplémentaires d'activer des tests d'habileté lors des réparations, soins et sabotages. Les zones de succès sont réduites de 40%.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/UnnervingPresence.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626160",
-        "role": "Tueur",
-        "name": "Trapper",
-        "name_tag": "TR",
-        "perk_name": "Force Brute",
-        "perk_tag": "BrutalStrength",
-        "description": "Votre force immense vous permet de réduire en lambeaux les défenses de vos proies. Détruisez les palettes lâchées, les murs qui peuvent l'être et les générateurs 10% plus vite.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BrutalStrength.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626161",
-        "role": "Tueur",
-        "name": "Trapper",
-        "name_tag": "TR",
-        "perk_name": "Agitation",
-        "perk_tag": "Agitation",
-        "description": "Vous êtes tout excité à l'idée de suspendre votre proie. Augmente votre vitesse quand vous transportez un corps de 6%. Pendant le transport du corps, votre rayon de terreur augmente de 12 mètres.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Agitation.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626162",
-        "role": "Tueur",
-        "name": "Wraith",
-        "name_tag": "WR",
-        "perk_name": "Prédateur",
-        "perk_tag": "Predator",
-        "description": "Votre capacité de pistage développée vous permet de prendre la direction des traces laissées par les survivants en fuite. Les marques d'éraflure laissées par les survivants apparaîtront légèrement plus proches l'une de l'autre.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Predator.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626163",
-        "role": "Tueur",
-        "name": "Wraith",
-        "name_tag": "WR",
-        "perk_name": "Chien De Sang",
-        "perk_tag": "Bloodhound",
-        "description": "Tel un chien de chasse, vous flairez les traces de sang à grande distance. Les traces de sang frais sont considérablement plus visibles et peuvent être suivies pendant 2 secondes de plus que la normale.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Bloodhound.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626164",
-        "role": "Tueur",
-        "name": "Wraith",
-        "name_tag": "WR",
-        "perk_name": "Résistance À L'Obscurité",
-        "perk_tag": "Shadowborn",
-        "description": "Vous avez une vue perçante dans l'obscurité. Votre champ de vision est supérieur à la normale de 9 degrés. Ne se cumule pas avec les autres améliorations du champ de vision.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Shadowborn.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626165",
-        "role": "Tueur",
-        "name": "Hillbilly",
-        "name_tag": "HB",
-        "perk_name": "Tenace",
-        "perk_tag": "Enduring",
-        "description": "Vous êtes résistant à la douleur. Vous réduisez la durée des étourdissements par palette de 40%.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Enduring.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626166",
-        "role": "Tueur",
-        "name": "Hillbilly",
-        "name_tag": "HB",
-        "perk_name": "Résistance À La Lumière",
-        "perk_tag": "Lightborn",
-        "description": "Contrairement aux autres créatures de la brume, vous n'êtes plus aussi sensible à la lumière. La résistance à l'aveuglement augmente de 60%. La récupération suite à un aveuglement augmente de 50%.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Lightborn.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626167",
-        "role": "Tueur",
-        "name": "Hillbilly",
-        "name_tag": "HB",
-        "perk_name": "Réparateur",
-        "perk_tag": "Tinkerer",
-        "description": "Lorsqu'un générateur est réparé à 85%, un fort avertissement sonore est déclenché et vous bénéficiez de l'effet de statut Indétectable pendant 8 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Tinkerer.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626168",
-        "role": "Tueur",
-        "name": "Nurse",
-        "name_tag": "NR",
-        "perk_name": "Stridor",
-        "perk_tag": "Stridor",
-        "description": "Vous êtes extrêmement sensible à la respiration de votre proie. La respiration des survivants en difficulté est 25% plus forte et la respiration normale est 0% plus forte.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Stridor.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626169",
-        "role": "Tueur",
-        "name": "Nurse",
-        "name_tag": "NR",
-        "perk_name": "Thanatophobie",
-        "perk_tag": "Thanatophobia",
-        "description": "Leur courage s'évanouit face à leur inéluctable trépas. Pour chaque survivant blessé, en état critique ou suspendu à un crochet, tous les survivants reçoivent une pénalité de 3%, jusqu'à un maximum de 12%, au temps de réparation, aux soins et au sabotage.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Thanatophobia.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62616a",
-        "role": "Tueur",
-        "name": "Nurse",
-        "name_tag": "NR",
-        "perk_name": "Vocation De L'Infirmière",
-        "perk_tag": "AnursesCalling",
-        "description": "Débloque une capacité de repérage d'auras. Les auras des survivants qui donnent des soins ou en reçoivent vous sont révélées dans un rayon de 20 mètres.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/AnursesCalling.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62616b",
-        "role": "Tueur",
-        "name": "Myers",
-        "name_tag": "SH",
-        "perk_name": "Gardons Le Meilleur Pour La Fin",
-        "perk_tag": "SavetheBestforLast",
-        "description": "Vous devenez obsédé par un survivant. Vous obtenez un jeton pour chaque attaque de base portée qui n'est pas infligée à votre obsession. Chaque jeton octroie une réduction cumulable de 5% sur la récupération des attaques de base réussies et vous pouvez engranger jusqu'à 8 jetons. Frapper votre obsession avec une attaque de base vous fera perdre 4 jetons. Vous ne pouvez plus gagner de jetons si votre obsession est sacrifiée ou tuée. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SavetheBestforLast.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62616c",
-        "role": "Tueur",
-        "name": "Myers",
-        "name_tag": "SH",
-        "perk_name": "Jouer Avec La Nourriture",
-        "perk_tag": "PlaywithYourFood",
-        "description": "Vous devenez obsédé par un survivant. Chaque fois que vous chassez la cible de votre obsession et que vous la laissez s'échapper vous recevez un jeton, jusqu'à un maximum de 3 jetons. Chaque jeton augmente votre vitesse de déplacement de 5%. Chaque action offensive consomme un jeton. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PlaywithYourFood.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62616d",
-        "role": "Tueur",
-        "name": "Myers",
-        "name_tag": "SH",
-        "perk_name": "Lumière Mourante",
-        "perk_tag": "DyingLight",
-        "description": "Vous devenez obsédé par un survivant. Votre obsession bénéficie d'un bonus de 33% à la vitesse d'action pour décrocher et soigner d'autres survivants. Chaque fois que vous accrochez un survivant autre que votre obsession, si elle est en vie, vous gagnerez un jeton. Si l'obsession est en vie, tous les autres survivants reçoivent une pénalité de vitesse de réparation, de sabotage et de soins de 2% pour chaque jeton. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DyingLight.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62616e",
-        "role": "Tueur",
-        "name": "Hag",
-        "name_tag": "HA",
-        "perk_name": "Sort : Le Troisième Sceau",
-        "perk_tag": "HexTheThirdSeal",
-        "description": "Un sort qui entrave la capacité de repérage d'auras. Frapper un survivant avec une attaque de base pendant que le totem ensorcelé est actif applique l'effet de statut Aveuglement. Cet effet s'applique au 2 derniers survivants frappés. Les effets du sort persistent tant que le totem ensorcelé est en place.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexTheThirdSeal.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62616f",
-        "role": "Tueur",
-        "name": "Hag",
-        "name_tag": "HA",
-        "perk_name": "Sort : Ruine",
-        "perk_tag": "HexRuin",
-        "description": "Un sort qui affecte la progression des réparations des générateurs de tous les survivants. Tous les générateurs sont affectés par le sort Ruine. Si un générateur n'est pas en train d'être réparé par un survivant, la progression de sa réparation régresse immédiatement et automatiquement à 100% de la vitesse de régression normale. Les effets du sort persistent tant que le totem ensorcelé est en place.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexRuin.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626170",
-        "role": "Tueur",
-        "name": "Hag",
-        "name_tag": "HA",
-        "perk_name": "Sort : Mangeur d'Espoir",
-        "perk_tag": "HexDevourHope",
-        "description": "Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants aiguisent votre faim. Quand un survivant est sauvé d'un crochet qui se trouve à moins de 24 mètres, Mangeur d'espoir reçoit un jeton. 2 jetons = obtenez 3% à l'effet de statut Rapidité 10 secondes après avoir suspendu un survivant et pendant 10 secondes.3 jetons = les survivants souffrent du statut A découvert. 5 jetons = confère la possibilité de tuer les survivants de vos propres mains. Les effets du sort persistent tant que le totem ensorcelé est en place.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexDevourHope.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626171",
-        "role": "Tueur",
-        "name": "Doctor",
-        "name_tag": "DO",
-        "perk_name": "Présence Ecrasante",
-        "perk_tag": "OverwhelmingPresence",
-        "description": "Votre seule présence inspire une véritable peur. Les survivants dans votre rayon de terreur souffrent d'inefficacité. Le taux de consommation d'objets des survivants affectés est augmenté de 80%.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/OverwhelmingPresence.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626172",
-        "role": "Tueur",
-        "name": "Doctor",
-        "name_tag": "DO",
-        "perk_name": "Surveillance Et Maltraitance",
-        "perk_tag": "MonitorAbuse",
-        "description": "Méticuleux dans votre approche, terrifiant dans son application. Tandis que vous pourchassez un survivant votre rayon de terreur augmente de 8 mètres. Dans le cas contraire, il est réduit de 8 mètres et votre champ de vision s'élargit de 3 degrés. Les améliorations du champ de vision ne sont pas cumulables.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MonitorAbuse.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626173",
-        "role": "Tueur",
-        "name": "Doctor",
-        "name_tag": "DO",
-        "perk_name": "Surcharge",
-        "perk_tag": "Overcharge",
-        "description": "La haine du progrès vous anime. Surchargez un générateur en effectuant l'action Endommager le générateur. Le prochain survivant à interagir avec ce générateur doit faire face à un test d'habileté d'une difficulté énorme. Si le test échoue, le générateur régresse de 3%. Réussir le test d'habileté ne génère aucune progression, mais empêche l'explosion du générateur.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Overcharge.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626174",
-        "role": "Tueur",
-        "name": "Huntress",
-        "name_tag": "BE",
-        "perk_name": "Prédateur",
-        "perk_tag": "BeastofPrey",
-        "description": "Votre désir de tuer est si intense que vous perdez momentanément votre connexion avec l'Entité, ce qui vous rend totalement imprévisible. Octroie l'effet de statut Indétectable après l'obtention de Soif de sang palier 1. L'effet de statut est supprimé dès que vous perdez Soif de sang. Vous gagnez 30% de points de sang supplémentaire en exécutant des actions de la catégorie Chasseur.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BeastofPrey.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626175",
-        "role": "Tueur",
-        "name": "Huntress",
-        "name_tag": "BE",
-        "perk_name": "Instinct Territorial",
-        "perk_tag": "TerritorialImperative",
-        "description": "Renforce la capacité de repérage d'aura. Les auras des survivants vous sont révélées pendant 3 secondes lorsqu'ils entrent dans la cave et que vous vous trouvez à plus de 32 mètres de l'entrée de cette dernière. Instinct Territorial ne peut être activé qu'une fois toutes les 30 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/TerritorialImperative.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626176",
-        "role": "Tueur",
-        "name": "Huntress",
-        "name_tag": "BE",
-        "perk_name": "Sort : Berceuse De La Chasseuse",
-        "perk_tag": "HexHuntressLullaby",
-        "description": "Un sort qui puise sa force dans le désespoir Votre traque devient une chanson entêtante qui trouble l'attention de vos proies. Les survivants subissent un malus de régression de 2% quand ils ratent un tes d'habileté. Chaque fois qu'un survivant est suspendu à un crochet, la Berceuse de la Chasseuse gagne en puissance. 1 à 4 jetons = le délai entre le son d'avertissement du test d'habileté et ce dernier se raccourcit. 5 jetons = aucun avertissement de test d'habileté. Les effets du sort persistent tant que le totem ensorcelé est en place.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexHuntressLullaby.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626177",
-        "role": "Tueur",
-        "name": "Cannibal",
-        "name_tag": "CA",
-        "perk_name": "K.O.",
-        "perk_tag": "KnockOut",
-        "description": "Le traumatisme causé par vos attaques brutales rend difficile le simple fait de crier à laide. L'aura des survivants en état critique n'est pas révélée aux autres survivants si ils se tiennent à plus de 32 mètres.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/KnockOut.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626178",
-        "role": "Tueur",
-        "name": "Cannibal",
-        "name_tag": "CA",
-        "perk_name": "Chili Et Barbecue",
-        "perk_tag": "BarbecueChilli",
-        "description": "Un lien profond avec l'Entité débloque le potentiel de repérer les auras. Après avoir pendu un survivant à un crochet, les auras de tous les autres survivants vous sont révélées pendant 4 secondes s'ils sont à plus de40 mètres du crochet.Donne 25% de points de sang bonus cumulables à chaque fois qu'un survivant est pendu au crochet pour la première fois, jusqu'à un maximum de 50%. Les points de sang bonus ne sont accordés qu'après la partie.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BarbecueChilli.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626179",
-        "role": "Tueur",
-        "name": "Cannibal",
-        "name_tag": "CA",
-        "perk_name": "Chute De Franklin",
-        "perk_tag": "FranklinsDemise",
-        "description": "Vos attaques de base réussies forcent les survivants à lâcher leur objet à l'impact. L'objet perdu est endommagé dans le chute et perd 0% de son total initial de charge.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FranklinsDemise.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62617a",
-        "role": "Tueur",
-        "name": "Freddy",
-        "name_tag": "EK",
-        "perk_name": "Intensité Ardente",
-        "perk_tag": "FireUp",
-        "description": "La tension accrue due au fait de perdre votre proie vous emplit de rage et vous procure un élan de motivation inattendu. Chaque fois qu'un survivant termine la réparation d'un générateur Intensité ardente gagne en puissance. Pour chaque générateur réparé vous obtenez un bonus cumulable de 3% jusqu'à la fun de la partie sur la vitesse de ramassage, de lâcher, de saut d'obstacles, de destruction de palettes, de générateurs et des objets qui peuvent l'être.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FireUp.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62617b",
-        "role": "Tueur",
-        "name": "Freddy",
-        "name_tag": "EK",
-        "perk_name": "Souviens-toi De Moi",
-        "perk_tag": "RememberMe",
-        "description": "Vous devenez obsédé par un survivant. Chaque fois que vous frappez votre obsession avec une attaque de base la temps d'ouverture des portes de sortie est augmenté de 4 secondes, jusqu'à un maximum de 8 secondes supplémentaires L'obsession n'est pas affectée par Souviens-toi de moi. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/RememberMe.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62617c",
-        "role": "Tueur",
-        "name": "Freddy",
-        "name_tag": "EK",
-        "perk_name": "Gardien Du Sang",
-        "perk_tag": "BloodWarden",
-        "description": "Dès qu'une porte de sortie est ouverte Gardien du sang est activé. Les auras des survivants situés dans les zones de sortie vous sont révélées. Une fois par partie pendre un survivant à un crochet lorsque Gardien de sang est activé fait appel à l'Entité pour empêcher tous les survivants de sortir pendant 30 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BloodWarden.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62617d",
-        "role": "Tueur",
-        "name": "Pig",
-        "name_tag": "FK",
-        "perk_name": "Coup Du Pendu",
-        "perk_tag": "HangmansTrick",
-        "description": "Les modifications astucieuses que vous avez apporté aux crochets vous préviennent si on y touche. Vous recevez une alerte quand un survivant commence à saboter un crochet. Lorsque vous portez un survivant vous voyez l'aura du moindre survivant à 2 mètres d'un crochet.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HangmansTrick.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62617e",
-        "role": "Tueur",
-        "name": "Pig",
-        "name_tag": "FK",
-        "perk_name": "Surveillance",
-        "perk_tag": "Surveillance",
-        "description": "Renforce la capacité de repérage d'auras. Tous les générateurs inversés sont entourés d'une aura blanche. Si l'inversion est interrompue le générateur se retrouve entouré d'une aura jaune pendant 8 secondes. Les bruits causés par la réparation d'un générateur sont audibles à 8 mètres de plus.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Surveillance.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62617f",
-        "role": "Tueur",
-        "name": "Pig",
-        "name_tag": "FK",
-        "perk_name": "Prise De Décision",
-        "perk_tag": "MakeYourChoice",
-        "description": "Quand un survivant en libère un autre du crochet, à au moins 32 mètres de vous, Prise de décision s'active et applique l'effet de statut A découvert sur le sauveteur pendant 40 secondes. Prise de décision à un temps de récupération de 40 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MakeYourChoice.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626180",
-        "role": "Tueur",
-        "name": "Clown",
-        "name_tag": "GK",
-        "perk_name": "Déboussoler",
-        "perk_tag": "Bamboozle",
-        "description": "Votre vitesse lors d'un saut d'obstacles est 5% plus rapide. Sauter par dessus un obstacle fait que l'Entité bloque le lieu de cette action pendant 8 secondes. Un seul lieu peut être bloqué de cette manière à tout moment (il n'est bloqué que pour les survivants). N'affecte pas les palettes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Bamboozle.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626181",
-        "role": "Tueur",
-        "name": "Clown",
-        "name_tag": "GK",
-        "perk_name": "Coulrophobie",
-        "perk_tag": "Coulrophobia",
-        "description": "Votre seule présence inspire l'effroi. Les survivants dans votre rayon de terreur ont 30% de malus de vitesse de progression des soins.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Coulrophobia.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626182",
-        "role": "Tueur",
-        "name": "Clown",
-        "name_tag": "GK",
-        "perk_name": "Le Tour Est Joué",
-        "perk_tag": "PopGoestheWeasel",
-        "description": "Un lien profond avec l'Entité débloque une immense force. Après avoir suspendu un survivant à un crochet, le générateur suivant que vous endommagez régresse de 25% de sa progression totale. La régression normale est appliquée au générateur suite aux dégâts. Le tour est joué est actif pendant 40 secondes après que le survivant ait été suspendu.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PopGoestheWeasel.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626183",
-        "role": "Tueur",
-        "name": "Spirit",
-        "name_tag": "HK",
-        "perk_name": "Fureur De L'Esprit",
-        "perk_tag": "SpiritFury",
-        "description": "Chaque palette que vous détruisez amplifie la rage de l'Entité. Après avoir détruit 4 palettes, la prochaine fois que vous serez étourdi par une palette, l'Entité détruira instantanément celle-ci. Vous souffrirez tout de même de la pénalité de l'effet Etourdi.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SpiritFury.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626184",
-        "role": "Tueur",
-        "name": "Spirit",
-        "name_tag": "HK",
-        "perk_name": "Sort : Terrain Hanté",
-        "perk_tag": "HexHauntedGround",
-        "description": "Deux totems ensorcelés piégés apparaissent durant la partie. Lorsque l'un des deux totems ensorcelé piégés est purifié par un survivant, tous les survivant souffrent de l'effet de statut A découvert pendant 40 secondes. Le totem ensorcelé piégé restant devient immédiatement un totem passif.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexHauntedGround.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626185",
-        "role": "Tueur",
-        "name": "Spirit",
-        "name_tag": "HK",
-        "perk_name": "Rancoeur",
-        "perk_tag": "Rancor",
-        "description": "Vous devenez obsédé par un survivant. Chaque fois qu'un générateur est terminé l'obsession voit votre aura pendant 5 secondes. Chaque fois qu'un générateur est terminé les emplacements de tous les survivants vous sont révélés pendant 3 secondes. Une fois tous les générateurs terminés l'obsession possède l'effet de statut A découvert et le tueur peut éliminer l'obsession. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Rancor.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626186",
-        "role": "Tueur",
-        "name": "Legion",
-        "name_tag": "KK",
-        "perk_name": "Discorde",
-        "perk_tag": "Discordance",
-        "description": "Chaque fois que deux survivants ou plus travaillent sur le même générateur, l'aura de ce dernier est illuminée en jaune pendant 8 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Discordance.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626187",
-        "role": "Tueur",
-        "name": "Legion",
-        "name_tag": "KK",
-        "perk_name": "Cran Dément",
-        "perk_tag": "MadGrit",
-        "description": "Quand vous portez un survivant vous ne subissez pas de temps de récupération pour les attaques de base manquées, et toucher un autre survivant avec une attaque de base interrompt le chronomètre durant lequel le survivant porté peut se débattre pendant 2 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MadGrit.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626188",
-        "role": "Tueur",
-        "name": "Legion",
-        "name_tag": "KK",
-        "perk_name": "Vierge De Fer",
-        "perk_tag": "IronMaiden",
-        "description": "Vous ouvrez les casiers 30% plus vite. Quand un survivant sort d'un casier il souffre de l'effet de statut A découvert pendant 15 secondes et sa position est révélée pendant 4 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/IronMaiden.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626189",
-        "role": "Tueur",
-        "name": "Plague",
-        "name_tag": "MK",
-        "perk_name": "Intervention Maléfique",
-        "perk_tag": "CorruptIntervention",
-        "description": "Vos prières invoquent une puissance maléfique qui compromet les chances des survivants de s'en sortir. Les 3 générateurs les plus éloignés de vous sot bloqués par l'Entité pendant 80 secondes au début de la partie. Pendant ce laps de temps les survivants ne peuvent pas les réparer. Les générateurs affectés sont entourés d'une aura blanche.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CorruptIntervention.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62618a",
-        "role": "Tueur",
-        "name": "Plague",
-        "name_tag": "MK",
-        "perk_name": "Peur Contagieuse",
-        "perk_tag": "InfectiousFright",
-        "description": "Les cris des infidèles font bondir votre coeur. Les survivants présents dans votre rayon de terreur pendant qu'un autre survivant entre en état critique hurleront, vous révélant leur position pendant 4 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/InfectiousFright.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62618b",
-        "role": "Tueur",
-        "name": "Plague",
-        "name_tag": "MK",
-        "perk_name": "Sombre Dévotion",
-        "perk_tag": "DarkDevotion",
-        "description": "La démonstration de vos pouvoirs provoque un vent de panique qui gagne toute la région. Vous devenez obsédé par un survivant. Si vous parvenez à le toucher à l'aide d'une attaque de base, il émet un rayon de terreur de 32 mètres pendant 20 secondes. Vous bénéficiez de l'effet de statut Indétectable pour toute cette durée.L'obsession entend le rayon de terreur tout le temps qu'elle émet. Le tueur ne peut être obsédé que par un seul survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DarkDevotion.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62618c",
-        "role": "Tueur",
-        "name": "Ghost Face",
-        "name_tag": "OK",
-        "perk_name": "Je Vous Ecoute",
-        "perk_tag": "ImAllEars",
-        "description": "Vos sens sont aiguisés dans le sombre royaume de l'Entité. Débloque le potentiel de repérage d'aura d'une personne. L'aura de tout survivant effectuant une action précipitée à moins de 48 mètres de votre emplacement est révélée pendant 6 secondes. Je vous écoute ne peut être déclenché qu'une fois toutes les 60 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ImAllEars.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62618d",
-        "role": "Tueur",
-        "name": "Ghost Face",
-        "name_tag": "OK",
-        "perk_name": "Frissons Palpitants",
-        "perk_tag": "ThrillingTremors",
-        "description": "Vos sombres projets et votre ruse suscitent l'interêt de l'Entité. Après avoir ramassé un survivant, tous les générateurs non réparés par les survivants sont bloqués par l'Entité et ne peuvent pas être réparés pendant les 16 prochaines secondes. les générateurs affectés sont entourés d'une aura blanche. Frissons Palpitants ne peut être active qu'une fois toutes les 100 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ThrillingTremors.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62618e",
-        "role": "Tueur",
-        "name": "Ghost Face",
-        "name_tag": "OK",
-        "perk_name": "Poursuite Furtive",
-        "perk_tag": "FurtiveChase",
-        "description": "Vous devenez obsédé par un survivant. Vous guettez dans l'ombre, éliminant vos victimes les unes après les autres. Quand votre obsession est suspendue à un crochet Poursuite Furtive reçoit un jeton, pour un maximum de 2 jetons. Chaque jeton réduit votre rayon de terreur de 4 mètres pendant une poursuite. Quand un survivant sauve l'obsession d'un crochet, le sauveteur devient l'obsession. Vous perdez tous vos jetons si l'obsession est sacrifiée ou tuée. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/FurtiveChase.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62618f",
-        "role": "Tueur",
-        "name": "Demogorgon",
-        "name_tag": "QK",
-        "perk_name": "Surtension",
-        "perk_tag": "Surge",
-        "description": "Votre présence inquiétante électrifie l'air et interfère avec la technologie. Plonger un survivant en état critique avec une attaque de base provoque l'explosion immédiate et le recul de tous les générateurs dans un rayon de 32 mètres. Applique un recul supplémentaire de 8%. Surtension put uniquement être déclenchée une fois toutes les 60 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Surge.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626190",
-        "role": "Tueur",
-        "name": "Demogorgon",
-        "name_tag": "QK",
-        "perk_name": "Briseur D'Esprit",
-        "perk_tag": "Mindbreaker",
-        "description": "Votre présence épouvante, épuise et affaiblit votre proie. Quand ils réparent les générateurs avec moins de 50% de progression les survivants souffrent de l'effet de statut Epuisement. Tout chronomètre d'effet de statut Epuisement existant est mis en pause pendant que le survivant répare un générateur. Après avoir terminé la réparation, le survivant souffre de l'effet de statut Epuisement pendant 1 seconde.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Mindbreaker.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626191",
-        "role": "Tueur",
-        "name": "Demogorgon",
-        "name_tag": "QK",
-        "perk_name": "Limites Cruelles",
-        "perk_tag": "CruelLimits",
-        "description": "Vos liens avec l'autre monde se manifestent quand votre proie tente de s'échapper. Chaque fois qu'un générateur est réparé, dans un rayon de 24 mètres autour de celui-ci, les fenêtres et les sauts d'obstacles sont bloqués pour les survivants pendant 20 secondes. Vous voyez l'aura des sauts d'obstacles bloqués par Limites Cruelles pendant toute sa durée.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CruelLimits.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626192",
-        "role": "Tueur",
-        "name": "Oni",
-        "name_tag": "SK",
-        "perk_name": "Tactique De Zanshin",
-        "perk_tag": "ZanshinTactics",
-        "description": "Débloque le potentiel de repérage d'aura. Vous faites preuve de vigilance et restez attentif aux zones clés du champ de bataille. Vous voyez l'aura de l'ensemble des palettes, murs destructibles et emplacements de saut d'obstacle dans un rayon de 24 mètres. Quand un survivant est blessé Tactique de Zanshin devient inactive pendant 40 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ZanshinTactics.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626193",
-        "role": "Tueur",
-        "name": "Oni",
-        "name_tag": "SK",
-        "perk_name": "Echo Sanguin",
-        "perk_tag": "BloodEcho",
-        "description": "L'agonie d'un survivant est infligée aux autres. Lorsque vous suspendez un survivant, tous les survivants blessés souffrent de l'effet de statut Hémorragie jusqu'à ce qu'ils soient soignés et de l'effet de statut Epuisement pendant 45 secondes. Echo Sanguin a un temps de rechargement de 80 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BloodEcho.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626194",
-        "role": "Tueur",
-        "name": "Oni",
-        "name_tag": "SK",
-        "perk_name": "Ennemi Juré",
-        "perk_tag": "Nemesis",
-        "description": "Vous cherchez à vous venger de ceux qui vous ont fait du tort. Un survivant qui parvient à vous aveugler ou vous étourdir avec une palette ou un casier devient votre obsession. Dès qu'un nouveau survivant devient l'obsession, il est affecté par l'effet de statut Inconscient pendant 40 secondes et vous voyez son aura pendant 4 secondes. Le tueur ne peut être obsédé que par un seul survivant à la fois.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Nemesis.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626195",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Murmure Amer",
-        "perk_tag": "BitterMurmur",
-        "description": "Débloque une capacité de repérage d'auras. Chaque fois qu'un générateur est complètement réparé, les survivants dans un rayon de 16 mètres du générateur sont révélés pendant 5 secondes. Lorsque le dernier générateur est entièrement réparé, toutes les auras des survivants sont révélées pendant 10 secondes.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BitterMurmur.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626196",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Pisteur",
-        "perk_tag": "Deerstalker",
-        "description": "Débloque une capacité de repérage d'aura. Révèle l'aura des survivants en état critique dans un rayon de 36 mètres.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deerstalker.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626197",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Inquiétant",
-        "perk_tag": "Distressing",
-        "description": "Votre épouvantable odeur porte incroyablement loin. Votre rayon de terreur augmente de 26 %. Obtenez 100% de points de sang supplémentaires pour les actions de la catégorie Sournoiserie.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Distressing.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626198",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Sort: Personne N'échappe À La Mort",
-        "perk_tag": "HexNoOneEscapesDeath",
-        "description": "Un sort qui puise sa force dans l'espoir. La puissance de votre totem ensorcelé vous anime alors que les survivants sont sur le point de s'échapper. Un fois les portes de sortie alimentées, si un totem passif est encore présent sur la carte, ce soirt s'y applique. Tant que le sort est actif, les survivants subissent l'effet de statut À Découvert. Votre vitesse de mouvement est augmentée de 4%. L'effet du sort persiste tant que le totem est présent.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexNoOneEscapesDeath.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec626199",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Sort: Euphorie De La Chasse",
-        "perk_tag": "HexThrilloftheHunt",
-        "description": "Un sort qui puise sa force dans l'espoir. Les faux espoirs des survivants vous excitent en renforcent vos totems. Vous gagnez un jeton pour chaque totem ensorcelé ou passif restant sur la carte. Remportez 10 % de points de sang en plus par jeton pour les actions de la catégorie Chasseur. La vitesse de purification de totem par les survivants est réduites de 6 % pour chaque jeton. Vous recevez une alerte quand quelqu'un commence à s'attaquer à un de totem ensorcelé. Les effets du sort persistent tant que le totem ensorcelé concerné est debout.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexThrilloftheHunt.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62619a",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Insidieux",
-        "perk_tag": "Insidious",
-        "description": "Débloque la capacité de furtivité. Rester immobile pendant 2 secondes pour bénéficier de l'effet de statut Indétectable jusqu'à ce que vous bougiez ou agissiez de nouveau.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Insidious.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62619b",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Poigne De Fer",
-        "perk_tag": "IronGrasp",
-        "description": "Votre poigne de fer rend toute tentative de fuite presque impossible. L'effet des ruades des survivants est réduit de 75%. Le temps nécessaire pour se libérer de votre étreinte augmente de 12%.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/IronGrasp.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62619c",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Sanctuaire Monstrueux",
-        "perk_tag": "MonstrousShrine",
-        "description": "La fervente attention que vous accordez aux crochets du sous-sol a suscité l'intérêt de l'Entité. Les crochets des sous-sol confèrent les bonus suivants: 9% de progression plus rapide de l'Entité. 15% d'augmentation de la difficulté des tentatives d'évasion. 9% d'augmentation des pénalités d'échec de libération.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/MonstrousShrine.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62619d",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Boucher Sadique",
-        "perk_tag": "SloppyButcher",
-        "description": "Vous savez où frapper pour faire mal. Les blessures infligées par des attaques de base réussies accentuent considérablement l'hémorragie du survivant et provoque l'effet de statut Estropiement. Le saignement et l'Estropiement occasionnés par Boucher Sadique reviennent à la normale une fois que le survivant est complètement guéri.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SloppyButcher.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62619e",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Espions de l'Ombre",
-        "perk_tag": "SpiesfromtheShadows",
-        "description": "Les corbeaux peuvent communiquer directement avec vous. Dans 100% des cas, les corbeaux vous donnent un signal visuel quand vous vous trouvez dans un rayon de 36 mètres. Espions de l'Ombre a un temps de recharge de 5 secondes",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SpiesfromtheShadows.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec62619f",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Implacable",
-        "perk_tag": "Unrelenting",
-        "description": "Les attaques manquées avec votre armes principale ont un temps de rechargement plus court. Le temps de rechargement des attaques de base manquées est réduit de 30%.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Unrelenting.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a0",
-        "role": "Tueur",
-        "name": "All",
-        "name_tag": "All",
-        "perk_name": "Murmures",
-        "perk_tag": "Whispers",
-        "description": "Vous comprenez la vois de l'Entité de façon rudimentaire. Entendez sporadiquement le murmure de l'Entité lorsqu'un survivant se trouve dans un rayon de 32 mètres.",
-        "teach_level": 0,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Whispers.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a1",
-        "role": "Tueur",
-        "name": "Deathslinger",
-        "name_tag": "UK",
-        "perk_name": "Bricolo",
-        "perk_tag": "GearHead",
-        "description": "Vous avez l'oeil pour du matériel en bon état. Après avoir frappé un survivant 2 fois avec votre attaque de base, Bricolo s'active pendant 20 secondes. Chaque fois qu'un survivant effectue un bon test d'habileté pendant une réparation le générateur est signalé par une aura jaune tant qu'il est en cours de réparation.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/GearHead.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a2",
-        "role": "Tueur",
-        "name": "Deathslinger",
-        "name_tag": "UK",
-        "perk_name": "Dispositif De L'Homme Mort",
-        "perk_tag": "DeadMansSwitch",
-        "description": "Un survivant devient votre obsession. Après avoir suspendu l'obsession, Dispositif de l'homme mort s'active pendant 35 secondes. Une fois activé, tout survivant qui s'arrête avant d'avoir entièrement réparé le générateur fait que l'Entité bloque ce dernier jusqu' la fin de l'effet de Dispositif de l'homme mort. Les générateurs affectés sont entourés d'une aura blanche. Le tueur ne peut être obsédé que par un survivant à la fois.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DeadMansSwitch.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a3",
-        "role": "Tueur",
-        "name": "Deathslinger",
-        "name_tag": "UK",
-        "perk_name": "Sort : Châtiment",
-        "perk_tag": "HexRetribution",
-        "description": "Un sort qui se déclenche au moment de sa destruction. Ceux qui vous contrarient seront punis. Tout survivant qui purifie un totem passif subira l'effet de statut Inconscient pendant 35 secondes. Si un totem ensorcelé est purifié, y compris celui-ci, l'aura de tous les survivants est révélée pendant 10 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexRetribution.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a4",
-        "role": "Survivant",
-        "name": "Zarina Kassir",
-        "name_tag": "US",
-        "perk_name": "Confidentiel",
-        "perk_tag": "OffTheRecord",
-        "description": "Vous avez appris qu'une approche discrète est parfois la meilleure option. Quand on vous libère d'un crochet ou que vous vous en échappez, Confidentiel s'active pendant 60 secondes. Tant que Confidentiel est activé, le tueur ne voit pas votre aura et les grognements de douleur provoqués par les blessures sont réduits de 100%.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/OffTheRecord.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a5",
-        "role": "Survivant",
-        "name": "Zarina Kassir",
-        "name_tag": "US",
-        "perk_name": "Leurre",
-        "perk_tag": "RedHerring",
-        "description": "Vous avez remarqué que les gens font attention à ce qui fait le plus de bruit. Après avoir réparé un générateur pendant au moins 3 secondes, il sera entouré d'une aura jaune que personne d'autre que vous ne pourra voir. Le générateur reste signalé jusqu'à ce que vous le répariez complètement, que vous répariez un autre générateur, ou que vous entrez dans un casier. Entrer dans un casier déclenche un fort signal sonore du générateur que seul le tueur peut voir. Leurre ne peut être activé qu'une fois toutes les 60 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/RedHerring.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a6",
-        "role": "Survivant",
-        "name": "Zarina Kassir",
-        "name_tag": "US",
-        "perk_name": "Pour Le Peuple",
-        "perk_tag": "ForThePeople",
-        "description": "Vous risquez votre vie et de vous blesser pour les autres. Pour le peuple est uniquement actif quand votre santé est pleine. Appuyez sur le bouton de capacité active lorsque vous soignez un autre survivant sans trousse de soins pour immédiatement le soigner de l'état critique à blessé, ou de blessé à bonne santé. Vous êtes blessé et recevez l'effet de statut Brisé pendant 110 secondes. Vous devenez l'Obsession. Equiper cette compétence réduit vos chances de devenir l'obsession du tueur en début de partie.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ForThePeople.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a7",
-        "role": "Tueur",
-        "name": "Le Bourreau",
-        "name_tag": "WK",
-        "perk_name": "Pénitence Forcée",
-        "perk_tag": "ForcedPenance",
-        "description": "Ceux qui se mettent en travers du devoir tombe sous le coup d’un terrible jugement. Les survivants qui subissent un coup de protection souffrent de l ‘effet de statut Brisé pendant 20/25/30 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/ForcedPenance.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a8",
-        "role": "Tueur",
-        "name": "Le Bourreau",
-        "name_tag": "WK",
-        "perk_name": "Piste de Souffrance",
-        "perk_tag": "TrailOfTorment",
-        "description": "Vous guidez vos victimes sur un chemin de souffrance et châtiment. Après avoir frappé un générateur, vous devenez Indétectable durant 15 secondes. Pendant ce temps, l’aura jaune du générateur est révélée aux survivants. Cet effet ne peut être activé qu’une seul fois toutes les 120/100/80 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/TrailOfTorment.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261a9",
-        "role": "Tueur",
-        "name": "Le Bourreau",
-        "name_tag": "WK",
-        "perk_name": "Lien Mortel",
-        "perk_tag": "Deathbound",
-        "description": "Ceux dont la vie est entrelacée dans les ténèbres sont destinés à souffrir ensemble. Quand un survivant soigne un segment de santé d’un autre survivant à au moins 32 mètres du tueur, le survivant qui effectue l’action de soin se met à crier, révélant leur position et activant Lien Mortel pendant les 45 secondes suivantes. Pendant ce temps, le survivant souffre de l’effet de statut Inconscient quand il est à plus de 16/12/8 mètres du survivant soigné.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deathbound.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261aa",
-        "role": "Survivant",
-        "name": "Cheryl Mason",
-        "name_tag": "WS",
-        "perk_name": "Protection de l’Âme",
-        "perk_tag": "SoulGuard",
-        "description": "Vous avez surmonté d’énormes épreuves, ce qui vous a rendu plus fort. Gagnez l’effet de statut Endurance pendant 4/6/8 secondes après avoir été soigné ou après avoir récupéré de l’état critique. Quand vous êtes maudit par un sort, vous pouvez récupérer complètement de l’état critique.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/SoulGuard.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261ab",
-        "role": "Survivant",
-        "name": "Cheryl Mason",
-        "name_tag": "WS",
-        "perk_name": "Pacte de Sang",
-        "perk_tag": "BloodPact",
-        "description": "C’est comme si une part de latence en vous-même s’était réveillée. Vous avez la sensation de pouvoir vous dépasser pour porter secours. Lorsque l’obsession ou vous-même êtes blessés, vous voyez votre aura respective. Après avoir soigné l’obsession ou avoir reçu des soins de sa part, vous gagnez tous les deux l’effet de statut Rapidité pendant 4/6/8 secondes. Réduit les probabilité de devenir l’obsession. Si vous êtes l’obsession, cette compétence se désactive.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BloodPact.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261ac",
-        "role": "Survivant",
-        "name": "Cheryl Mason",
-        "name_tag": "WS",
-        "perk_name": "Alliance Inhibée",
-        "perk_tag": "RepressedAlliance",
-        "description": "Vous êtes habitué à être poursuivi par les forces maléfiques et vous avez commencé à l’utiliser à votre avantage. Alliance inhibée s’active après avoir réparé des générateurs pendant un total de 80/70/60 secondes. Quand vous réparez un générateur avec la compétence active, appuyez sur le bouton de capacité active pour faire appel à l’Entité afin de bloquer le générateur pendant 30 secondes. La compétence se désactive. Les générateurs affectés sont indiqués par une aura blanche à tous les survivants.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/RepressedAlliance.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261ad",
-        "role": "Tueur",
-        "name": "The Blight",
-        "name_tag": "YK",
-        "perk_name": "Prise du Dragon",
-        "perk_tag": "DragonsGrip",
-        "description": "Après avoir frappé un générateur, le premier survivant qui interagit avec dans les 30 prochaines secondes se met à crier, dévoilant sa position pendant 4 secondes, et il souffre de leffet de statut À découvert pendant 60 secondes. Prise du Dragon a un temps de recharge de 120/100/80 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DragonsGrip.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261ae",
-        "role": "Tueur",
-        "name": "The Blight",
-        "name_tag": "YK",
-        "perk_name": "Sort: Faveur de sang",
-        "perk_tag": "HexBloodFavour",
-        "description": "Un sort qui gagne les faveurs de l'Entité en faisant couler du sang. Quand un survivant est frappé, les palettes à moins de 16 mètres de votre position sont maintenues en place par l'Entité pendant 15 secondes. Impossible de les faire tomber. Sort: Faveur de sang a un temps de recharge de 60/50/40 secondes.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexBloodFavour.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261af",
-        "role": "Tueur",
-        "name": "The Blight",
-        "name_tag": "YK",
-        "perk_name": "Sort: Immortel",
-        "perk_tag": "HexUndying",
-        "description": "Un sort qui maintient les sombres pouvoirs qui circulent dans l'épreuve. Quand le Sort: Immortel est actif et qu'un totem ensorcelé différent est purifié, ce sort est transféré sur un totem passif, tant qu'il en existe un. L'aura des survivants est révélée pendant 4/5/6 secondes dans un rayon de 2 mètres d'un totem. Les jetons cumulés sur les compétences de sorts sont supprimés.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/HexUndying.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261b0",
-        "role": "Survivant",
-        "name": "Felix Richter",
-        "name_tag": "YS",
-        "perk_name": "Visionnaire",
-        "perk_tag": "Visionary",
-        "description": "Vous êtes incroyablement concentré sur les moyens de vous enfuir. Vous voyez l'aura des générateurs dans un rayon de 32 mètres. Quand un générateur est réparé, Visionnaire a un temps de récupération de 20/18/16 secondes.",
-        "teach_level": 30,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Visionary.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261b1",
-        "role": "Survivant",
-        "name": "Felix Richter",
-        "name_tag": "YS",
-        "perk_name": "Mesures désespérées",
-        "perk_tag": "DesperateMeasures",
-        "description": "Même dans vos pires moments, vous refusez d'échouez. Pour chaque survivant blessé, suspendu à un crochet ou en état critique, la vitesse de vos soins et de vos décrochages augmente de 10/12/14 %.",
-        "teach_level": 35,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/DesperateMeasures.png"
-    },
-    {
-        "_id": "5f46d9afa3777022ec6261b2",
-        "role": "Survivant",
-        "name": "Felix Richter",
-        "name_tag": "YS",
-        "perk_name": "Conçu pour durer",
-        "perk_tag": "BuiltToLast",
-        "description": "Vous savez comment tirer le meilleur des vos outils. Une fois par partie, un objet vidé de ses charges en récupérera 30/40/50 % au bout de 10 secondes.",
-        "teach_level": 40,
-        "is_ptb": false,
-        "lang": "fr",
-        "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/BuiltToLast.png"
-    },
-    {
-        "_id": "5fc742692a96603d88eb19c8",
         "role": "Survivor",
         "name": "Élodie Rakoto",
         "name_tag": "AS",
@@ -4121,7 +1910,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/PowerStruggle.png"
     },
     {
-        "_id": "5fc742692a96603d88eb19c7",
         "role": "Survivor",
         "name": "Élodie Rakoto",
         "name_tag": "AS",
@@ -4134,7 +1922,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Deception.png"
     },
     {
-        "_id": "5fc742692a96603d88eb19cb",
         "role": "Killer",
         "name": "Twins",
         "name_tag": "AK",
@@ -4147,7 +1934,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/CoupDeGrace.png"
     },
     {
-        "_id": "5fc742692a96603d88eb19c6",
         "role": "Survivor",
         "name": "Élodie Rakoto",
         "name_tag": "AS",
@@ -4160,7 +1946,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Appraisal.png"
     },
     {
-        "_id": "5fc742692a96603d88eb19c9",
         "role": "Killer",
         "name": "Twins",
         "name_tag": "AK",
@@ -4173,7 +1958,6 @@
         "icon": "https://raw.githubusercontent.com/dearvoodoo/dbd/master/Perks/Hoarder.png"
     },
     {
-        "_id": "5fc742692a96603d88eb19ca",
         "role": "Killer",
         "name": "Twins",
         "name_tag": "AK",

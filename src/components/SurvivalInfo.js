@@ -2,15 +2,14 @@ import React, { Component } from 'react';
 
 import ApiDbd from '../api/api.js';
 
-
-class CharacterInfo extends Component {
+class SurvivalInfo extends Component {
     state = {
         character: {}
     }
     
     componentDidMount = async () => {       
         const result = await ApiDbd.oneSurvival(this.props.match.params._id)
-        console.log(this.props.match.params._id)
+
         this.setState({
             character: result.data
         })       
@@ -54,4 +53,4 @@ class CharacterInfo extends Component {
 
 }
 
-export default CharacterInfo
+export default SurvivalInfo
