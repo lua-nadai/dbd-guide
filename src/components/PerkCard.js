@@ -11,13 +11,10 @@ export const PerkCard = (props) => {
 
 export const PerkInfo = (props) => {
     return (
-        <a className='content'>
-            <img src={`${props.icon}`} alt={props.perk_name}/>
             <span>Role: {props.role}</span>
             <span>Character Name: {props.name}</span>
             <span>Perk Name: {props.perk_name}</span>
             <span>Description: {props.description}</span>
-        </a>
     )
 }
 
