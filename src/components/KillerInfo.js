@@ -21,12 +21,12 @@ class KillerInfo extends Component {
                 {this.state.character._id?
                 <>
                         {/* <img src={`${this.state.character.icon.shop_background}`}/> */}
-                        <div className='header-router'>
+                        <div className='center'>
                             <h1>{this.state.character.name}</h1>
                             <h2>{this.state.character.alias}</h2>
                         </div>
                         
-                        <div className='header-router'>
+                        <div className='center'>
                             {<img src={`${this.state.character.icon.portrait}`} alt={`${this.state.character.name} portrait`} width='150' />}
 
                             <div className='character-box'>
@@ -38,7 +38,7 @@ class KillerInfo extends Component {
                             </div>
                         </div>
 
-                        <div className='header-router'>
+                        <div className='center'>
                             <div className='character-perk' >
                                 {this.state.character.perks.map((perk, index) => <h1 index>{perk}</h1>)}
                             </div>

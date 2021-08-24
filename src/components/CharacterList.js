@@ -10,7 +10,7 @@ class CharacterList extends Component {
     render () {
         return (
             <>
-                <div className='header-router'>
+                <div className='center'>
                     <h1>{this.props.characterName}</h1>
                     <Search characterFilter={this.props.characterFilter} />
                 </div>

@@ -20,9 +20,9 @@ class SurvivalInfo extends Component {
             <>
                 {this.state.character._id?
                     <>
-                        <h1 className='header-router'>{this.state.character.name}</h1>
+                        <h1 className='center'>{this.state.character.name}</h1>
                         
-                        <div className='header-router'>
+                        <div className='center'>
                             {<img src={`${this.state.character.icon.portrait}`} alt={`${this.state.character.name} portrait`} width='150' />}
 
                             <div className='character-box'>
@@ -34,7 +34,7 @@ class SurvivalInfo extends Component {
                             </div>
                         </div>
 
-                        <div className='header-router'>
+                        <div className='center'>
                             <div className='character-perk' >
                                 {this.state.character.perks.map( (perk, index) => <h1 index>{perk}</h1> )}
                             </div>
