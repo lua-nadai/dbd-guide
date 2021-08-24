@@ -30,40 +30,43 @@
   justify-content: center;
 }
 
-.header-router {
+.center{
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  margin: 20px;
 }
 
-.character-box {
-  border: 1px solid black;
+#home{
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: flex-end;
+}
+#home .img-left{
+  width: 20%;
+  height: 100%;
+}
+
+#home-page{
+  width: 80%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#home-page .about {
   display: flex;
   flex-direction: column;
+  height: 50vh;
+  width: 50vw;
+  align-items: center;
+  /* background-color: brown; */
   margin: 20px;
-  width: 8vw;
 }
+#home-page .about img{
+  width: 40vw;
+  height: 100%;
 
-.character-right{
-
-}
-
-.character-story{
-  border: 1px solid black;
-  margin: 20px;
-  width: 90vw;
-  padding: 20px;
-}
-
-.character-perk {
-  width: 90vw;
-  display: flex;
-  justify-content: space-around;
-  align-content: center; 
-}
-
-.header-character{
-  display: flex;
 }
