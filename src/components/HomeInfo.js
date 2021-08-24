@@ -5,7 +5,7 @@ const HomeInfo = () => {
     return (
         <>
             <div id='home'>
-                <img className='img-left' src='https://i.pinimg.com/474x/4b/3a/19/4b3a19bf2a3c3b0150361b934eebd294.jpg'/>
+                <img className='img-left' src='https://i.pinimg.com/474x/4b/3a/19/4b3a19bf2a3c3b0150361b934eebd294.jpg' alt='background'/>
                 <div id='home-page'>
                     <div className='about'>
                         <h1>ABOUT DEAD BY DAYLIGHT</h1>
