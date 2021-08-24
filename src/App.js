@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
 
 import './App.css';
@@ -7,8 +7,10 @@ import ApiDbd from './api/api.js';
 import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
-import PerkCard from './components/PerkCard.js';
-
+import PerkList from './components/PerkList';
+import SurvivalInfo from './components/SurvivalInfo.js';
+import KillerInfo from './components/KillerInfo';
+import HomeInfo from './components/HomeInfo.js'
 
 
 class App extends Component {
@@ -22,27 +24,23 @@ class App extends Component {
     filteredPerk: []
   }
 
-  componentDidMount() {
-    ApiDbd.survival().then((result) => {
-      this.setState({
-        survivalList: result.data,
-        filteredSurvival: result.data
-      })
-    });
-    
-    ApiDbd.killer().then((result) => {
-      this.setState({
-        killerList: result.data,
-        filteredKiller: result.data
-      })
-    });
+  componentDidMount = async () => {
 
-    ApiDbd.perks().then((result) => {
-      this.setState({
-        perkList: result.data,
-        filteredPerk: result.data
-      })
-    });
+    const survival = await ApiDbd.survival()
+    const killer = await ApiDbd.killer()
+    const perks = await ApiDbd.perks()
+
+    this.setState({
+      survivalList: survival.data,
+      filteredSurvival: survival.data,
+
+      killerList: killer.data,
+      filteredKiller: killer.data,
+
+      perkList: perks.data,
+      filteredPerk: perks.data
+
+    })
   }
 
   survivalFilter = (inputSearch) => {
@@ -65,29 +63,46 @@ class App extends Component {
     })
   }
 
-  
+  perkFilter = (inputSearch) => {
+    const filtered = this.state.perkList.filter((character) => {
+      return character.perk_name.toLowerCase().includes(inputSearch.toLowerCase())
+    })
+
+    this.setState({
+      filteredPerk: filtered
+    })
+  }
+
+
   render() {
     return (
       <>
-        <Navbar/>
+        <Navbar />
         <Switch>
-          <Route 
-            path = '/survivors'
-            render={(props) => 
-              <CharacterList {...props} 
+          <Route
+            exact
+            path='/'
+            component={HomeInfo}
+          />
+          <Route
+            exact
+            path='/survivors'
+            render={(props) =>
+              <CharacterList {...props}
                 characters={this.state.filteredSurvival}
-                characterType={'/survivors'} 
-                characterName={'Survivors'} 
+                characterType={'/survivors'}
+                characterName={'Survivors'}
                 characterFilter={this.survivalFilter}
               />
             }
           />
           <Route
+            exact
             path='/killers'
-            render={(props) => 
-              <CharacterList {...props} 
+            render={(props) =>
+              <CharacterList {...props}
                 characters={this.state.filteredKiller}
-                characterType={'/killers'} 
+                characterType={'/killers'}
                 characterName={'Killers'}
                 characterFilter={this.killerFilter}
               />
@@ -95,9 +110,28 @@ class App extends Component {
           />
           <Route
             path='/perks'
+            render={(props) =>
+              <PerkList {...props}
+                perks={this.state.filteredPerk}
+                characterFilter={this.perkFilter}
+              />
+            }
           />
+          <Route
+            path='/survivors/:_id'
+            render={(props) =>
+              <SurvivalInfo {...props} />
+            }
+          />
+          <Route
+            path='/killers/:_id'
+            render={(props)=> 
+            <KillerInfo {...props} />
+            }
+          />
+
         </Switch>
-        <Footer/>
+        <Footer />
       </>
     );
   };

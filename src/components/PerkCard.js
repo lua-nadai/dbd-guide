@@ -3,8 +3,8 @@ import React from 'react';
 export const PerkCard = (props) => {
     return (
         <div className='character-card'>
-            <img src={`${props.icon}`} alt={props.name}/>
-            <h3>Name: {props.name}</h3>
+            <img src={`${props.icon}`} alt={props.name} width='180'/>
+            <h3>{props.perk_name}</h3>
         </div>
     )
 }
