@@ -12,7 +12,7 @@ class PerkList extends Component {
                     <h1>Perks</h1>
                     <Search characterFilter={this.props.characterFilter}/>
                 </div>
-                <div className='character-list'>
+                <div className='perk-list'>
                     {this.props.perks.map( perk => 
                         <Link to={`/perks/${perk._id}`}> 
                             <PerkCard {...perk}/> 
