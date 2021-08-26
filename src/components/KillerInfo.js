@@ -19,36 +19,40 @@ class KillerInfo extends Component {
         return(
             <>
                 {this.state.character._id?
-                <>
-                        {/* <img src={`${this.state.character.icon.shop_background}`}/> */}
-                        <div className='center'>
-                            <h1>{this.state.character.name}</h1>
-                            <h2>{this.state.character.alias}</h2>
-                        </div>
+                    <div className='page'>
+                       
+                        <img className='img-left' src={`${this.state.character.icon.shop_background}`}/>
                         
-                        <div className='center'>
-                            {<img src={`${this.state.character.icon.portrait}`} alt={`${this.state.character.name} portrait`} width='150' />}
+                        <div className='character-page'>
+                            <div className='center'>
+                                <h1>{this.state.character.name}</h1>
+                                <h2>{this.state.character.alias}</h2>
+                            </div>
+                            
+                            <div className='center'>
+                                {<img src={`${this.state.character.icon.portrait}`} alt={`${this.state.character.name} portrait`} width='150' />}
 
-                            <div className='character-box'>
-                                <h3>{this.state.character.full_name}</h3>
-                                <p>Gender: {this.state.character.gender}</p>
-                                <p>Map: {this.state.character.realm?this.state.character.realm:`No exclusive map`}</p>
-                                <p>Nationality: {this.state.character.nationality}</p>
-                                <p>DLC: {this.state.character.dlc}</p>
+                                <div className='character-box'>
+                                    <h3>{this.state.character.full_name}</h3>
+                                    <p>Gender: {this.state.character.gender}</p>
+                                    <p>Map: {this.state.character.realm?this.state.character.realm:`No exclusive map`}</p>
+                                    <p>Nationality: {this.state.character.nationality}</p>
+                                    <p>DLC: {this.state.character.dlc}</p>
+                                </div>
+                            </div>
+
+                            <div className='center'>
+                                <div className='character-perk' >
+                                    {this.state.character.perks.map((perk, index) => <h1 index>{perk}</h1>)}
+                                </div>
+
+                                <div className='character-story'>
+                                    <h2>Story:</h2>
+                                    <p>{this.state.character.lore}</p>
+                                </div>
                             </div>
                         </div>
-
-                        <div className='center'>
-                            <div className='character-perk' >
-                                {this.state.character.perks.map((perk, index) => <h1 index>{perk}</h1>)}
-                            </div>
-
-                            <div className='character-story'>
-                                <h2>Story:</h2>
-                                <p>{this.state.character.lore}</p>
-                            </div>
-                        </div>
-                </>:<h1>Loading...</h1>}
+                    </div>:<h1>Loading...</h1>}
             </>
         )
     }
