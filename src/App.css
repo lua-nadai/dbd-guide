@@ -3,6 +3,7 @@
 body{
   font-family: 'Crete Round', serif;
   font-size: 20px;
+  color: white;
 }
 
 a{
@@ -21,6 +22,10 @@ h3 {
   font-size: 20px;
 }
 
+hr{
+  width: 60vw;
+  border: 2px solid black ;
+}
 
 .character-card {
   margin: 50px;
@@ -63,8 +68,6 @@ h3 {
   background-image: radial-gradient(rgb(100, 84, 116), rgb(5, 5, 5)); 
 }
 
-
-
 .navbar{
   display: flex;
   justify-content: space-around;
@@ -99,67 +102,78 @@ h3 {
 .page{
   width: 100%;
   height: 100%;
-  background-color: white; /* black para homepage */
   display: flex;
-  justify-content: flex-end;
+  /* background-image: url('../public/images/background-smoke.jpg'); */
+  background-size: cover;
 }
+
 .img-left{
-  width: 20%;
+  width: 15%;
   height: 100%;
 }
 
-#home-page{
-  width: 85%;
-  background-color: white;
+.home-page{
+  width: 70%;
   display: flex;
   align-items: center;
   flex-direction: column;
+  background-color: rgba(255, 254, 254, 0.1) ;
+  
 }
 
-#home-page .about {
+.background-color{
+  background-image: radial-gradient(rgba(91, 91, 92, 1), rgb(5, 5, 5, 1));
+
+}
+
+.about {
   display: flex;
   flex-direction: column;
-  height: 50vh;
-  width: 50vw;
+  height: 75vh;
+  width: 55vw;
   align-items: center;
-  /* background-color: brown; */
   margin: 20px;
 }
-#home-page .about img{
-  width: 40vw;
-  height: 100%;
 
+.about img{
+  width: 40vw;
+  margin: 20px;
+}
+
+.about p{
+  width: 30vw;
+  font-size: 25px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.about h1{
+  margin-bottom: 50px;
 }
 
 .objective-box{
   border: 1px solid black;
   width: 25vw;
-  height: 30vh;
+  height: 38vh;
   margin: 20px;
   padding: 30px;
   display: flex;
   justify-content: space-around;
+  text-align: center;
 }
 
 .objective-container{
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;  
+  justify-content: center;
+  width: 55vw; 
+  margin-bottom: 100px; 
 }
 
 .objective-title{
   display: flex;
   justify-content: space-around;
-  height: 15vh;
-  margin-top: 50px; 
-}
-
-.character-page{
-  width: 80%;
-  background-color: white;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+  margin: 30px; 
 }
 
 .character-story{
@@ -172,4 +186,60 @@ h3 {
 .modal-perk{
   width: 80vw;
   height: 50vh;
+}
+
+.section-home {
+  display: flex;
+  width: 55vw;
+  height: 50vh;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.section-home p{
+  width: 30vw;
+  font-size: 25px;
+  margin: 50px;
+  text-align: center;
+}
+
+.section-home img {
+  width: 18vw;
+}
+
+.section-title{
+  margin-top: 40px
+}
+
+.container-rank{
+  display: flex;
+}
+
+.section-rank{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 10vw;
+}
+
+.section-rank img{
+  width: 8vw;
+}
+
+.section-container-rank{
+  display: flex;
+  width: 55vw;
+  height: 35vh;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 0px 100px 0px;
+}
+
+.section-container-rank p{
+  width: 30vw;
+  font-size: 25px;
+  margin: 50px;
+  text-align: center;
 }

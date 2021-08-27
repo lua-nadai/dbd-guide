@@ -23,7 +23,7 @@ class KillerInfo extends Component {
                        
                         <img className='img-left' src={`${this.state.character.icon.shop_background}`} alt={this.state.character.name}/>
                         
-                        <div className='character-page'>
+                        <div className='home-page'>
                             <div className='center'>
                                 <h1>{this.state.character.name}</h1>
                                 <h2>{this.state.character.alias}</h2>

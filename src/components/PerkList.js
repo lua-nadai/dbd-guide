@@ -7,19 +7,22 @@ import Search from './Search.js';
 class PerkList extends Component {
     render() {
         return(
-            <>
-                <div className='center'>
-                    <h1>Perks</h1>
-                    <Search characterFilter={this.props.characterFilter}/>
+            <div className='page'>
+                <span className='img-left'/>
+                <div className='home-page'>
+                    <div className='center'>
+                        <h1>Perks</h1>
+                        <Search characterFilter={this.props.characterFilter}/>
+                    </div>
+                    <div className='perk-list'>
+                        {this.props.perks.map( perk => 
+                            <Link to={`/perks/${perk._id}`}> 
+                                <PerkCard {...perk}/> 
+                            </Link>
+                        )}
+                    </div>
                 </div>
-                <div className='perk-list'>
-                    {this.props.perks.map( perk => 
-                        <Link to={`/perks/${perk._id}`}> 
-                            <PerkCard {...perk}/> 
-                        </Link>
-                    )}
-                </div>
-            </>
+            </div>
         )
     }
 }
