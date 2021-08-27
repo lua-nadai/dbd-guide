@@ -6,7 +6,7 @@ const HomeInfo = () => {
         <>
         <div className='background-color'>
             <div className='page'>
-                <img className='img-left' src='https://i.pinimg.com/474x/4b/3a/19/4b3a19bf2a3c3b0150361b934eebd294.jpg' alt='background'/>
+                <img className='img-left'  />
                 <div className='home-page'>
                         
                     <section className='about'>

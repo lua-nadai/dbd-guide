@@ -3,7 +3,7 @@
 body{
   font-family: 'Crete Round', serif;
   font-size: 20px;
-  color: white;
+  /* color: white; */
 }
 
 a{
@@ -23,13 +23,13 @@ h3 {
 }
 
 hr{
-  width: 60vw;
+  width: 50vw;
   border: 2px solid black ;
 }
 
 .character-card {
-  margin: 50px;
-  width: 10vw;
+  margin: 35px;
+  width: 15vw;
   height: 30vh;
   text-decoration: none;
   display: flex;
@@ -103,21 +103,21 @@ hr{
   width: 100%;
   height: 100%;
   display: flex;
-  /* background-image: url('../public/images/background-smoke.jpg'); */
-  background-size: cover;
+  background-image: url('./images/teste4.jpg');
 }
 
 .img-left{
-  width: 15%;
+  margin-top: 100px;
+  width: 20%;
   height: 100%;
 }
 
 .home-page{
-  width: 70%;
+  width: 60%;
   display: flex;
   align-items: center;
   flex-direction: column;
-  background-color: rgba(255, 254, 254, 0.1) ;
+  background-color: rgba(255, 255, 255, 0.281) ;
   
 }
 
