@@ -1,17 +1,23 @@
 import React, { Component } from 'react';
 
 import ApiDbd from '../api/api.js';
+import { PerkCard } from './PerkCard.js';
 
 class KillerInfo extends Component {
     state = {
-        character: {}
+        character: {},
+        perks: []
     }
 
     componentDidMount = async () => {
-        const result = await ApiDbd.oneKiller(this.props.match.params._id)
+        const killer = await ApiDbd.oneKiller(this.props.match.params._id)
+        const perks = await ApiDbd.perks()
 
+        const filteredPerks = perks.data.filter((perk) => { return perk.name === killer.data.name })
+        
         this.setState({
-            character: result.data
+            character: killer.data,
+            perks: filteredPerks
         })
     }
 
@@ -21,36 +27,51 @@ class KillerInfo extends Component {
                 {this.state.character._id?
                     <div className='page'>
                        
-                        <img className='img-left' src={`${this.state.character.icon.shop_background}`} alt={this.state.character.name}/>
-                        
+                        <img className='img-left' src={`${this.state.character.icon.shop_background}`} alt={this.state.character.name}/> 
+
                         <div className='home-page'>
-                            <div className='center'>
+
+                            <div className='character-title center'>
                                 <h1>{this.state.character.name}</h1>
                                 <h2>{this.state.character.alias}</h2>
                             </div>
                             
-                            <div className='center'>
-                                {<img src={`${this.state.character.icon.portrait}`} alt={`${this.state.character.name} portrait`} width='150' />}
+                            <section className='section-character'>
 
-                                <div className='character-box'>
-                                    <h3>{this.state.character.full_name}</h3>
-                                    <p>Gender: {this.state.character.gender}</p>
-                                    <p>Map: {this.state.character.realm?this.state.character.realm:`No exclusive map`}</p>
-                                    <p>Nationality: {this.state.character.nationality}</p>
-                                    <p>DLC: {this.state.character.dlc}</p>
-                                </div>
-                            </div>
+                                <div className='center character-info'>
+                                    {<img src={`${this.state.character.icon.portrait}`} alt={`${this.state.character.name} portrait`} width='180' />}
 
-                            <div className='center'>
-                                <div className='character-perk' >
-                                    {this.state.character.perks.map((perk, index) => <h1 index>{perk}</h1>)}
+                                    <div className='character-box'>
+                                        <p>Gender: {this.state.character.gender}</p>
+                                        <p>Map: {this.state.character.realm?this.state.character.realm:`No exclusive map`}</p>
+                                        <p>Nationality: {this.state.character.nationality}</p>
+                                        <p>DLC: {this.state.character.dlc}</p>
+                                    </div>
                                 </div>
 
+                                <hr/>
+                                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                    
+                                    <div style={{ margin: '0px 100px' }}>
+                                        <h1>Perks:</h1>
+                                    </div>
+
+                                    <div className='character-container-perk'>
+                                        {this.state.perks.map((perk, index) => 
+                                            <div className='character-perk'>
+                                                <PerkCard {...perk} />
+                                            </div>
+                                        )}
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section className='center'>
                                 <div className='character-story'>
-                                    <h2>Story:</h2>
+                                    <h1 style={{ color: 'white', marginBottom: '50px' }}>Story:</h1>
                                     <p>{this.state.character.lore}</p>
                                 </div>
-                            </div>
+                            </section>
                         </div>
                     </div>:<h1>Loading...</h1>}
             </>

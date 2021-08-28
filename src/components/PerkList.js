@@ -10,10 +10,11 @@ class PerkList extends Component {
             <div className='page'>
                 <span className='img-left'/>
                 <div className='home-page'>
-                    <div className='center'>
-                        <h1>Perks</h1>
+                    <div className='character-header center'>
+                        <h1 style={{ fontSize: '55px' }}>Perks</h1>
                         <Search characterFilter={this.props.characterFilter}/>
                     </div>
+                    <hr/>
                     <div className='perk-list'>
                         {this.props.perks.map( perk => 
                             <Link to={`/perks/${perk._id}`}> 

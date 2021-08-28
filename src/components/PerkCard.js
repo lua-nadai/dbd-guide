@@ -26,7 +26,7 @@ export const PerkCard = (props) => {
                             <h2>Perk Name: {props.perk_name}</h2><br/>
                             <h2>Character Name: <a href='#'>{props.name}</a></h2><br/>
                             <h2>Teach Leve: {props.teach_level}</h2><br/>
-                        <h2>Description:<br/>{props.description}</h2><br/>
+                            <h2>Description:<br/>{props.description}</h2><br/>
                         </ModalBody>
                     <ModalFooter>
                         <Button color="secondary" onClick={toggle}>Close</Button>

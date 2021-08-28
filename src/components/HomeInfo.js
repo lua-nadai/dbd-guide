@@ -10,7 +10,7 @@ const HomeInfo = () => {
                 <div className='home-page'>
                         
                     <section className='about'>
-                        <h1 className='section-title'>ABOUT DEAD BY DAYLIGHT</h1>
+                        <h1 className='section-title' style={{ fontSize: '55px' }}>ABOUT DEAD BY DAYLIGHT</h1>
                         <div>
                             <p>Dead by Daylight is an asymmetrical multiplayer horror game where one player takes on the role of a brutal Killer and the other four play as Survivors.</p> 
                             <p>As a Killer, your goal is to sacrifice as many Survivors as possible. As a Survivor, your goal is to escape and avoid being caught and killed.</p>
@@ -27,7 +27,7 @@ const HomeInfo = () => {
 
                     <section className='center'>
                         <h1 className='section-title'>ENDGAME COLLAPSE</h1>
-                        <div className='section-home'>
+                        <div className='section-home' style={{height:'30vh'}}>
                             <img src='https://deadbydaylight.com/images/game/endgame.png' alt='EndGame Collapse'/>
                             <p>The two-minute Endgame Collapse is the last phase of a trial and signals the Survivors of their last chance to escape. When time runs out, any Survivor remaining on the map—even those hiding in lockers—fall into the clutches of The Entity and count as regular sacrifices for The Killer.</p>
                         </div>
@@ -37,7 +37,7 @@ const HomeInfo = () => {
 
                     <section className='center'>
                         <h1 className='section-title'>BLOODPOINTS AND THE BLOODWEB</h1>
-                        <div className='section-home'>
+                        <div className='section-home' style={{height: '55vh'}}>
                             <img src='https://deadbydaylight.com/images/game/bloodweb.png' alt='BloodPoints'/>
                             <div>
                                 <p>Scoring is vital for character progression. Both Killers and Survivors rely on Bloodpoints to unlock items and perks via the Bloodweb. Bloodpoints are awarded based on many different actions during a Trial and are divided into 4 categories for Survivors and 4 categories for Killers.</p>
@@ -67,6 +67,7 @@ const HomeInfo = () => {
                             </div>
                         </div>
                     </section>
+                    <hr />
                 </div>
             </div>
         </div>

@@ -27,7 +27,6 @@ hr{
   border: 2px solid black ;
 }
 
-
 .perk-card{ 
   width: 150px;
   height: 200px;
@@ -57,7 +56,7 @@ hr{
   justify-content: space-around;
   align-content: center;
   background-color: black;
-  padding: 2vh 80vw 2vh 0px;
+  padding: 1vh 75vw 1vh 0.5vw;
 }
 
 .navbar a {
@@ -102,43 +101,41 @@ hr{
 
 .background-color{
   background-image: radial-gradient(rgba(91, 91, 92, 1), rgb(5, 5, 5, 1));
-  
 }
 
 .about {
   display: flex;
   flex-direction: column;
-  height: 75vh;
+  height: 65vh;
   width: 55vw;
   align-items: center;
-  margin: 20px;
+  margin: 10px;
 }
 
 .about img{
   width: 40vw;
-  margin: 20px;
+  margin: 10px;
 }
 
 .about p{
+  margin-top: 20px;
   width: 30vw;
   font-size: 25px;
-  margin: 20px 0px;
   text-align: center;
-}
-
-.about h1{
-  margin-bottom: 50px;
 }
 
 .objective-box{
   border: 1px solid black;
+  border-radius: 10%;
   width: 25vw;
-  height: 38vh;
+  height: 53vh;
   margin: 20px;
   padding: 30px;
   display: flex;
   justify-content: space-around;
   text-align: center;
+  background-image: radial-gradient(rgba(30, 13, 56, 0.76),rgb(0, 0, 0));
+  color: white;
 }
 
 .objective-container{
@@ -149,12 +146,15 @@ hr{
   margin-bottom: 100px; 
 }
 
+.objective-container img{
+  width: 8vw;
+}
+
 .objective-title{
   display: flex;
   justify-content: space-around;
   margin: 30px; 
 }
-
 
 .modal-perk{
   width: 80vw;
@@ -182,7 +182,7 @@ hr{
 }
 
 .section-title{
-  margin-top: 40px
+  margin-top: 20px
 }
 
 .container-rank{
@@ -207,7 +207,7 @@ hr{
   height: 35vh;
   align-items: center;
   justify-content: space-around;
-  margin: 0 0px 100px 0px;
+  margin: 0 0px 70px 0px;
 }
 
 .section-container-rank p{
@@ -241,68 +241,85 @@ hr{
 }
 
 .character-story{
-  margin: 20px;
+  margin: 30px;
   border: 1px solid black;
   border-radius: 30px ;
-  padding: 20px;
+  padding: 60px 120px;
+  background-image: radial-gradient(white, rgba(0, 0, 0, 0.87));
+}
+
+.character-story p{
+  margin-bottom: 30px ;
 }
 
 .character-info {
-  width: 13vw;
-  height: 45vh;
+  width: 30vw;
+  height: 25vh;
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
+  align-items: center;
 }
 
 .character-info img{
   border: 1px solid black;
   border-radius: 10%;
   background-image: radial-gradient(rgba(255, 255, 255, 0.541), black);
-  margin-top: 10px;
 }
 
 .character-box{
   border: 1px solid white;
+  border-radius: 10%;
   background-image: radial-gradient(rgba(80, 80, 80, 0.616),rgb(0, 0, 0));
   color: white;
-  margin-bottom: 10px;
+  margin: 10px;
   width: 13vw;
+  height: 22vh;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .section-character{
-  /* background-color: turquoise; */
   width: 55vw;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding: 0px 40px;
-
 }
 
 .character-container-perk{
-  border: 1px solid black;
-  width: 38vw;
-  padding: 0px 30px;
+  width: 55vw;
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
   text-align: center;
+  margin: 30px 0px;
 }
 
 .character-perk{
-  /* background-color: blue; */
-  width: 10vw;
-  height: 45vh;
+  width: 20vw;
+  height: 35vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 .character-title{
-  margin: 25px;
+  margin: 20px;
   font-size: 60px
 }
 
+.character-header{
+  margin: 20px;
+}
 
+.character-header input{
+  width: 10vw;
+  text-align: center;
+  margin-top: 10px;
+}

@@ -12,10 +12,11 @@ class CharacterList extends Component {
             <div className='page'>
                 <span className='img-left'/>
                 <div className='home-page'>
-                    <div className='center'>
-                        <h1>{this.props.characterName}</h1>
+                    <div className='character-header center'>
+                        <h1 style={{fontSize:'55px'}}>{this.props.characterName}</h1>
                         <Search characterFilter={this.props.characterFilter} />
                     </div>
+                    <hr/>
                     <div className='character-list'>
                         {this.props.characters.map( character => 
                             <Link to={`${this.props.characterType}/${character._id}`} key = {character._id} > 
@@ -23,6 +24,7 @@ class CharacterList extends Component {
                             </Link> 
                         )}
                     </div>
+                    <hr/>
                 </div>
             </div>
         )
