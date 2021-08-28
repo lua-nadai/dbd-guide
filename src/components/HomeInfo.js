@@ -6,11 +6,11 @@ const HomeInfo = () => {
         <>
         <div className='background-color'>
             <div className='page'>
-                <img className='img-left'  />
+                <span className='img-left'/>
                 <div className='home-page'>
                         
                     <section className='about'>
-                        <h1 className='section-title' style={{ fontSize: '55px' }}>ABOUT DEAD BY DAYLIGHT</h1>
+                        <h1 className='section-title' >ABOUT DEAD BY DAYLIGHT</h1>
                         <div>
                             <p>Dead by Daylight is an asymmetrical multiplayer horror game where one player takes on the role of a brutal Killer and the other four play as Survivors.</p> 
                             <p>As a Killer, your goal is to sacrifice as many Survivors as possible. As a Survivor, your goal is to escape and avoid being caught and killed.</p>
