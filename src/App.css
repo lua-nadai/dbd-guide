@@ -2,7 +2,7 @@
 
 body{
   font-family: 'Crete Round', serif;
-  font-size: 1.2vw;
+  font-size: 1vw;
   /* color: white; */
 }
 
@@ -11,16 +11,16 @@ a{
 }
 
 h1{
-  font-size: 3vw;
-}
-
-h2{
   font-size: 2vw;
 }
 
-h3 {
-  font-size: 20px;
+h2{
+  font-size: 1vw;
 }
+
+/* h3 {
+  font-size: 20px;
+} */
 
 hr{
   width: 50vw;
@@ -106,10 +106,11 @@ hr{
 .about {
   display: flex;
   flex-direction: column;
-  height: 65vh;
+  height: 80vh;
   width: 55vw;
   align-items: center;
   margin: 1vw;
+  background-color: tomato;
 }
 
 .about img{
@@ -120,7 +121,6 @@ hr{
 .about p{
   margin-top: 2vh;
   width: 30vw;
-  font-size: 1vw;
   text-align: center;
 }
 
@@ -128,7 +128,7 @@ hr{
   border: 0.15vw solid black;
   border-radius: 10%;
   width: 25vw;
-  height: 53vh;
+  height: 65vh;
   margin: 1vw;
   padding: 3.5vw 1vw;
   display: flex;
