@@ -106,10 +106,11 @@ hr{
 .about {
   display: flex;
   flex-direction: column;
-  height: 65vh;
+  height: 70vh;
   width: 55vw;
   align-items: center;
   margin: 10px;
+
 }
 
 .about img{
