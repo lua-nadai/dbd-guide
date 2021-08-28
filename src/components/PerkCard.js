@@ -13,7 +13,7 @@ export const PerkCard = (props) => {
             <Button className='perk-format' onClick={toggle}>
                 
                 <div className="perk-card" >
-                    <img src={`${props.icon}`} alt={props.name} width='180' />
+                    <img src={`${props.icon}`} alt={props.name} />
                     <h3>{props.perk_name}</h3>
                 </div>
             </Button>

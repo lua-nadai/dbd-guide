@@ -18,9 +18,9 @@ h2{
   font-size: 1vw;
 }
 
-/* h3 {
-  font-size: 20px;
-} */
+h3 {
+  font-size: 1vw;
+}
 
 hr{
   width: 50vw;
@@ -28,8 +28,9 @@ hr{
 }
 
 .perk-card{ 
-  width: 150px;
-  height: 200px;
+  font-size: 0.1vw;
+  width: 5vw;
+  height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -39,15 +40,19 @@ hr{
   text-align: center;
 }
 
+.perk-card img{
+  width: 8vw
+}
+
 .perk-format{
-  margin: 60px;
-  height: 250px;
-  width: 250px;
+  margin: 3vw;
+  height: 21vh;
+  width: 11vw;
   transform: rotate(45deg);
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 15px 5%;
+  border-radius: 5%;
   background-image: radial-gradient(rgb(100, 84, 116), rgb(5, 5, 5)); 
 }
 
@@ -68,7 +73,7 @@ hr{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin: 50px;
+  margin: 2vw;
 }
 
 .center{
@@ -206,7 +211,7 @@ hr{
   height: 35vh;
   align-items: center;
   justify-content: space-around;
-  margin: 0 0px 0.7vw 0px;
+  margin: 0vw 0vw 0.7vw 0vw;
 }
 
 .section-container-rank p{
@@ -243,7 +248,7 @@ hr{
 .character-story{
   margin: 3vw;
   border: 0.05vw solid black;
-  border-radius: 30px ;
+  border-radius: 1.5vw ;
   padding: 3vw 5vw;
   background-image: radial-gradient(white, rgba(0, 0, 0, 0.87));
 }
