@@ -224,9 +224,9 @@ hr{
 }
 
 .character-card {
-  margin: 35px;
+  margin: 2vw;
   width: 15vw;
-  height: 30vh;
+  height: 35vh;
   text-decoration: none;
   display: flex;
   justify-content: center;
@@ -236,19 +236,20 @@ hr{
 }
 
 .character-card img{
-  margin: 20px
+  margin: 1vw;
+  width: 8vw;
 }
 
 .character-story{
-  margin: 30px;
-  border: 1px solid black;
+  margin: 3vw;
+  border: 0.05vw solid black;
   border-radius: 30px ;
-  padding: 60px 120px;
+  padding: 3vw 5vw;
   background-image: radial-gradient(white, rgba(0, 0, 0, 0.87));
 }
 
 .character-story p{
-  margin-bottom: 30px ;
+  margin-bottom: 1vw ;
 }
 
 .character-info {
@@ -261,17 +262,17 @@ hr{
 }
 
 .character-info img{
-  border: 1px solid black;
+  border: 0.05vw solid black;
   border-radius: 10%;
   background-image: radial-gradient(rgba(255, 255, 255, 0.541), black);
 }
 
 .character-box{
-  border: 1px solid white;
+  border: 0.05vw solid white;
   border-radius: 10%;
   background-image: radial-gradient(rgba(80, 80, 80, 0.616),rgb(0, 0, 0));
   color: white;
-  margin: 10px;
+  margin: 1vw;
   width: 13vw;
   height: 22vh;
   text-align: center;
@@ -286,7 +287,7 @@ hr{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0px 40px;
+  padding: 0vw 4vw;
 }
 
 .character-container-perk{
@@ -295,7 +296,7 @@ hr{
   justify-content: space-around;
   align-items: flex-end;
   text-align: center;
-  margin: 30px 0px;
+  margin: 1vw 0vw;
 }
 
 .character-perk{
@@ -309,16 +310,16 @@ hr{
 }
 
 .character-title{
-  margin: 20px;
-  font-size: 60px
+  margin: 2vw;
+  font-size: 2.5vw
 }
 
 .character-header{
-  margin: 20px;
+  margin: 1vw;
 }
 
 .character-header input{
   width: 10vw;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 1vw;
 }

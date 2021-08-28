@@ -49,7 +49,7 @@ class SurvivalInfo extends Component {
                                 <hr/>
 
                                 <div style={{display: 'flex', flexDirection: 'column'}}>
-                                    <div style={{ margin: '0px 100px'}}>
+                                    <div style={{ margin: '0vw 3vw'}}>
                                         <h1>Perks:</h1>
                                     </div>
 
@@ -65,7 +65,7 @@ class SurvivalInfo extends Component {
                             <hr />
                             <section className='center'>
                                 <div className='character-story'>
-                                    <h1 style={{ color: 'white' , marginBottom: '50px'}}>Story:</h1>
+                                    <h1 style={{ color: 'white' , marginBottom: '2vw'}}>Story:</h1>
                                     <p>{this.state.character.lore}</p>
                                 </div>
                             </section>

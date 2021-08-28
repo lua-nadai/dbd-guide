@@ -11,7 +11,7 @@ class PerkList extends Component {
                 <span className='img-left'/>
                 <div className='home-page'>
                     <div className='character-header center'>
-                        <h1 style={{ fontSize: '55px' }}>Perks</h1>
+                        <h1 style={{ fontSize: '2.5vw' }}>Perks</h1>
                         <Search characterFilter={this.props.characterFilter}/>
                     </div>
                     <hr/>

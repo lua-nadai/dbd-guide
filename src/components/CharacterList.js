@@ -13,7 +13,7 @@ class CharacterList extends Component {
                 <span className='img-left'/>
                 <div className='home-page'>
                     <div className='character-header center'>
-                        <h1 style={{fontSize:'55px'}}>{this.props.characterName}</h1>
+                        <h1 style={{fontSize:'2.5vw'}}>{this.props.characterName}</h1>
                         <Search characterFilter={this.props.characterFilter} />
                     </div>
                     <hr/>
