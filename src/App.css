@@ -45,9 +45,9 @@ hr{
 }
 
 .perk-format{
-  margin: 2.5vw;
-  height: 250px;
-  width: 250px;
+  margin:2.5vw ;
+  height: 200px;
+  width: 200px;
   transform: rotate(45deg);
   display: flex;
   justify-content: center;
