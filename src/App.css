@@ -19,7 +19,7 @@ h2{
 }
 
 h3 {
-  font-size: 1vw;
+  font-size: 0.85vw;
 }
 
 hr{
@@ -30,7 +30,7 @@ hr{
 .perk-card{ 
   font-size: 0.1vw;
   width: 5vw;
-  height: 20vh;
+  height: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,13 +41,13 @@ hr{
 }
 
 .perk-card img{
-  width: 8vw
+  width: 7vw;
 }
 
 .perk-format{
-  margin: 3vw;
-  height: 21vh;
-  width: 11vw;
+  margin: 2.5vw;
+  height: 250px;
+  width: 250px;
   transform: rotate(45deg);
   display: flex;
   justify-content: center;
@@ -73,7 +73,7 @@ hr{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin: 2vw;
+
 }
 
 .center{
