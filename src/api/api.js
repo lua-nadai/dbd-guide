@@ -1,33 +1,76 @@
 import axios from 'axios'
+import { generatePath } from 'react-router-dom'
 
 class ApiDbd {
 
     API = axios.create({
-        baseURL: 'https://ironrest.herokuapp.com'
+        baseURL: process.env.REACT_APP_DBD_GUIDE_API,
     })
 
-    survival() {
-        return this.API.get('/dbdsurvival')
+    survival = async () => {
+        try {
+            const path = '/dbdsurvival'
+            const url = generatePath(path)
+            const result =  await this.API.get(url)
+            return result
+        } catch (error) {
+            throw error.response
+        }
     }
 
-    killer() {
-        return this.API.get('/dbdkiller')
+    killer = async () => {
+        try {
+            const path = '/dbdkiller'
+            const url = generatePath(path)
+            const result = await this.API.get(url)
+            return result
+        } catch (error) {
+            throw error.response
+        }
     }
 
-    perks() {
-        return this.API.get('/dbdperk')
+    perks = async () => {
+        try {
+            const path = '/dbdperk'
+            const url = generatePath(path)
+            const result = await this.API.get(url)
+            return result
+        } catch (error) {
+            throw error.response
+       }
     }
 
-    oneSurvival(_id){
-        return this.API.get(`/dbdsurvival/${_id}`)
+    oneSurvival = async (id) => {
+        try {
+            const path = '/dbdsurvival/:id'
+            const url = generatePath(path, { id })
+            const result = await this.API.get(url, { params: { id } })
+            return result
+        } catch (error) {
+            throw error.response
+       }
     }
 
-    oneKiller(_id){
-        return this.API.get(`/dbdkiller/${_id}`)
+    oneKiller = async (id) => {
+        try {
+            const path = '/dbdkiller/:id'
+            const url = generatePath(path, { id })
+            const result = await this.API.get(url, { params: { id } })
+            return result
+        } catch (error) {
+            throw error.response
+       }
     }
 
-    onePerk(_id){
-        return this.API.get(`/dbdperk/${_id}`)
+    onePerk = async (id) => {
+        try {
+            const path = '/dbdperk/:id'
+            const url = generatePath(path, { id })
+            const result = await this.API.get(url, { params: { id } })
+            return result
+        } catch (error) {
+            throw error.response
+       }
     }
 }
 
