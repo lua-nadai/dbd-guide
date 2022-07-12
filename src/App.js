@@ -4,7 +4,8 @@ import { Switch, Route } from 'react-router-dom';
 import './App.css';
 
 import ApiDbd from './api/api.js';
-import Navbar from './components/Navbar.js';
+import Navbar from './components/NavBar/index'
+// import Navbar from './components/Navbar.js';
 import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
 import PerkList from './components/PerkList';
@@ -77,8 +78,8 @@ class App extends Component {
   render() {
     return (
       <>
+        {/* <Navbar /> */}
         <Navbar />
-
           <Switch>
             <Route
               exact

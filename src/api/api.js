@@ -3,7 +3,7 @@ import axios from 'axios'
 class ApiDbd {
 
     API = axios.create({
-        baseURL: 'https://ironrest.herokuapp.com'
+        baseURL: process.env.REACT_APP_DBD_GUIDE_API,
     })
 
     survival() {
