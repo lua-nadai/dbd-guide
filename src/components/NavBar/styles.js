@@ -2,26 +2,33 @@ import styled from "@emotion/styled";
 
 export const NavbarContainer = styled.nav`
   background-color: black;
-  box-sizing: content-box;
-  width: 100vw;
+  width: 100%;
   height: 50px;
-  ${'' /* margin: 0 20px; */}
-  display: flex;
-  justify-content: space-between;
-
-  img {
-    height: 100%;
-    background-color: pink;
-  }
 
   div {
-    color: white;
-    text-decoration: none;
-    text-align: center;
-    height: 100%;
-    width: 30vw;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  
+    img {
+      height: 50px;
+      margin-left: 10px;
+      box-sizing: content-box;
+    }
+  
+    div {
+      height: 50px;
+      width: 300px;
+      min-width: 100px;
+      margin: 0 30px;
+      padding: 0 20px;
+      justify-content: space-evelyn;
+      align-items: center;
+    
+      a {
+        text-decoration: none;
+        color: white;
+      }
+    }
   }
 `
