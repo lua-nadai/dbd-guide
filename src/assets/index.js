@@ -1,3 +1,3 @@
-import Template from "./Tempate";
+import Template from "./Template";
 
 export default Template

@@ -1,17 +1,25 @@
 import React from "react";
 import { Link } from "react-router-dom/cjs/react-router-dom.min";
 import { NavbarContainer } from "./styles";
+import {
+  HOME_PATH,
+  KILLERS_PATH,
+  PERKS_PATH,
+  SURVIVORS_PATH,
+} from "../../constants/constants";
 
 const Navbar = () => (
   <NavbarContainer>
-    <Link to="/">
-      <img src="https://logos-world.net/wp-content/uploads/2021/02/Dead-by-Daylight-Symbol.jpg" alt="DBD-logo" />
+  <div>
+    <Link to={HOME_PATH}>
+      <img src="images/dbdlogo.jpg" alt="DBD-logo" />
     </Link>
     <div>
-      <Link to="/survivors">Survivors</Link>
-      <Link to="/killers">Killers</Link>
-      <Link to="/perks">Perks</Link>
+      <Link to={SURVIVORS_PATH}>Survivors</Link>
+      <Link to={KILLERS_PATH}>Killers</Link>
+      <Link to={PERKS_PATH}>Perks</Link>
     </div>
+  </div>
   </NavbarContainer>
 )
 

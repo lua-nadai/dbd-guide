@@ -4,14 +4,22 @@ import { Switch, Route } from 'react-router-dom';
 import './App.css';
 
 import ApiDbd from './api/api.js';
-import Navbar from './components/NavBar/index'
-// import Navbar from './components/Navbar.js';
-import Footer from './components/Footer.js';
+// import Footer from './components/Footer.js';
 import CharacterList from './components/CharacterList.js';
 import PerkList from './components/PerkList';
 import SurvivalInfo from './components/SurvivalInfo.js';
 import KillerInfo from './components/KillerInfo';
 import HomeInfo from './components/HomeInfo.js'
+import HomePage from './views/HomePage';
+import SurvivorsPage from './views/SurvivorsPage/SurvivorsPage';
+import KillersPage from './views/KillersPage';
+import PerksPage from './views/PerksPage';
+import {
+  HOME_PATH,
+  KILLERS_PATH,
+  PERKS_PATH,
+  SURVIVORS_PATH,
+} from './constants/constants';
 
 
 class App extends Component {
@@ -78,64 +86,84 @@ class App extends Component {
   render() {
     return (
       <>
-        {/* <Navbar /> */}
-        <Navbar />
-          <Switch>
-            <Route
-              exact
-              path='/'
-              component={HomeInfo}
-            />
+        <Switch>
+          <Route
+            exact
+            path='/'
+            component={HomeInfo}
+          />
+        {/* Novas Rotas para Teste */}
+          <Route
+            exact
+            path={HOME_PATH}
+            component={HomePage}
+          />
+          <Route
+            exact
+            path={SURVIVORS_PATH}
+            component={SurvivorsPage}
+          />
+          <Route
+            exact
+            path={KILLERS_PATH}
+            component={KillersPage}
+          />
+          <Route
+            exact
+            path={PERKS_PATH}
+            component={PerksPage}
+          />
+        {/* Novas Rotas para Teste */}
 
-            <Route
-              exact
-              path='/survivors'
-              render={(props) =>
-                <CharacterList {...props}
-                  characters={this.state.filteredSurvival}
-                  characterType={'/survivors'}
-                  characterName={'Survivors'}
-                  characterFilter={this.survivalFilter}
-                />
-              }
-            />
-            <Route
-              exact
-              path='/killers'
-              render={(props) =>
-                <CharacterList {...props}
-                  characters={this.state.filteredKiller}
-                  characterType={'/killers'}
-                  characterName={'Killers'}
-                  characterFilter={this.killerFilter}
-                />
-              }
-            />
-            <Route
-              path='/perks'
-              render={(props) =>
-                <PerkList {...props}
-                  perks={this.state.filteredPerk}
-                  characterFilter={this.perkFilter}
-                />
-              }
-            />
-            <Route
-              path='/survivors/:_id'
-              render={(props) =>
-                <SurvivalInfo {...props} />
-              }
-            />
-            <Route
-              path='/killers/:_id'
-              render={(props)=> 
-              <KillerInfo {...props} />
-              }
-            />
+          <Route
+            exact
+            path='/survivors'
+            render={(props) =>
+              <CharacterList {...props}
+                characters={this.state.filteredSurvival}
+                characterType={'/survivors'}
+                characterName={'Survivors'}
+                characterFilter={this.survivalFilter}
+              />
+            }
+          />
+          <Route
+            exact
+            path='/killers'
+            render={(props) =>
+              <CharacterList {...props}
+                characters={this.state.filteredKiller}
+                characterType={'/killers'}
+                characterName={'Killers'}
+                characterFilter={this.killerFilter}
+              />
+            }
+          />
+          <Route
+            path='/perks'
+            render={(props) =>
+              <PerkList {...props}
+                perks={this.state.filteredPerk}
+                characterFilter={this.perkFilter}
+              />
+            }
+          />
+          <Route
+            path='/survivors/:_id'
+            render={(props) =>
+              <SurvivalInfo {...props} />
+            }
+          />
+          <Route
+            path='/killers/:_id'
+            render={(props)=> 
+            <KillerInfo {...props} />
+            }
+          />
 
-          </Switch>
+        </Switch>
 
-        <Footer/>
+        {/* <Footer/> */}
       </>
     );
   };

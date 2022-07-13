@@ -1,10 +1,10 @@
 import React from "react";
 import Template from "../../assets";
 
-const PerksPage = () => (
+const HomePage = () => (
   <Template>
-
+    
   </Template>
 )
 
-export default PerksPage
+export default HomePage
