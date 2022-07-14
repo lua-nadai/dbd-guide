@@ -3,6 +3,7 @@ import styled from "@emotion/styled";
 export const NavbarContainer = styled.nav`
   background-color: black;
   width: 100%;
+  ${'' /* min-width:400px; */}
   height: 50px;
 
   div {
