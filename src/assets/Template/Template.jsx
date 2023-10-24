@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/NavBar";
+import Navbar from "../../components/NavBar";
 import { TemplateBackground, TemplatePage } from "./styles";
 
 const Template = (props) => {

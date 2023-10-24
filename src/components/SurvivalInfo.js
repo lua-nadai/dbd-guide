@@ -20,7 +20,7 @@ class SurvivalInfo extends Component {
             perks: filteredPerks
         })       
     }
-   
+    
     render(){
         return (
             <>
