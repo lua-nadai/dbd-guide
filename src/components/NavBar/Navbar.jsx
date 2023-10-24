@@ -6,7 +6,7 @@ import {
   KILLERS_PATH,
   PERKS_PATH,
   SURVIVORS_PATH,
-} from "../../constants/constants";
+} from "../../constants";
 
 const Navbar = () => (
   <NavbarContainer>

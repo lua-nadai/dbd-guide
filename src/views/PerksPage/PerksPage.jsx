@@ -1,5 +1,5 @@
 import React from "react";
-import Template from "../../assets";
+import Template from "../../assets/Template";
 
 const PerksPage = () => (
   <Template>
